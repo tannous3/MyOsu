@@ -1,0 +1,1001 @@
+ Volume in drive C is OS
+ Volume Serial Number is E475-085D
+
+ Directory of C:\Users\tanno\AppData\Local\osu!\Songs
+
+03/20/2022  12:31 AM    <DIR>          .
+03/20/2022  12:31 AM    <DIR>          ..
+03/06/2022  11:25 PM    <DIR>          100019 Owl City & Carly Rae Jepsen - Good Time [no video]
+10/17/2021  01:23 PM    <DIR>          1001507 ZUTOMAYO - Kan Saete Kuyashiiwa
+10/17/2021  01:23 PM    <DIR>          1003489 fripSide - Love with You (TV Size)
+10/17/2021  01:18 PM    <DIR>          100628 MitiS - Open Window (feat Anna Yvette)
+10/17/2021  09:03 AM    <DIR>          1008600 LukHash - WHEN AN ANGEL DIES
+10/17/2021  09:03 AM    <DIR>          1009907 James Landino & Kabuki - Birdsong
+10/17/2021  09:03 AM    <DIR>          1011011 nekodex - new beginnings
+03/11/2022  10:26 PM    <DIR>          1012262 THE ORAL CIGARETTES - GET BACK
+10/17/2021  01:23 PM    <DIR>          1023491 DJ YOSHITAKA - Evans
+10/17/2021  01:23 PM    <DIR>          1024635 Maduk - Got Me Thinking (feat Veela)
+10/17/2021  01:23 PM    <DIR>          1026283 THE ORAL CIGARETTES - Daikirai
+03/19/2022  02:38 PM    <DIR>          102803 Mizuki Nana - Vitalization (TV Size) [no video]
+12/24/2021  12:46 PM    <DIR>          1031202 Gram (DJ Genki) - Nibelungen
+10/17/2021  01:23 PM    <DIR>          1031435 VINXIS - Sidetracked Day
+10/17/2021  01:23 PM    <DIR>          1034063 K_DA - POP_STARS (feat Madison Beer, (G)I-DLE, Jaira Burns)
+10/17/2021  01:23 PM    <DIR>          1034358 ALEPH - The Evil Spirit
+10/17/2021  01:18 PM    <DIR>          103862 Groove Coverage - Runaway (Nightcore Mix)
+12/24/2021  12:46 PM    <DIR>          1040056 Gram (DJ Genki) - Nibelungen
+10/17/2021  01:23 PM    <DIR>          1041151 System Of A Down - Toxicity
+10/17/2021  01:18 PM    <DIR>          104169 STYLE FIVE - SPLASH FREE (TV Size) [no video]
+10/17/2021  01:23 PM    <DIR>          1044124 Linked Horizon - Guren no Yumiya
+10/17/2021  01:23 PM    <DIR>          1044785 Powerwolf - Army Of The Night
+10/17/2021  01:18 PM    <DIR>          104784 Kommisar - Chipstream
+10/17/2021  01:23 PM    <DIR>          1054562 Within Temptation - In the Middle of the Night
+10/17/2021  01:23 PM    <DIR>          1056144 onoken - felys
+10/17/2021  01:18 PM    <DIR>          105656 Linked Horizon - Guren no Yumiya
+10/17/2021  01:23 PM    <DIR>          1056976 SawanoHiroyuki[nZk]_Tielle - Amazing Trees
+10/17/2021  01:23 PM    <DIR>          1057006 SawanoHiroyuki[nZk]_Anly - Tranquility
+10/17/2021  01:23 PM    <DIR>          1057350 Feint - Words (feat Laura Brehm)
+10/17/2021  01:23 PM    <DIR>          1057848 tomatoism - Someone Special
+10/17/2021  01:25 PM    <DIR>          10580 Linkin Park - What I've Done
+10/17/2021  01:23 PM    <DIR>          1059177 SOOOO - Happppy song
+10/17/2021  01:23 PM    <DIR>          1060325 Camellia - Exit This Earth's Atomosphere
+11/08/2021  09:28 PM    <DIR>          1061287 Turbo - PADORU _ PADORU
+11/08/2021  09:37 PM    <DIR>          1061694 Paul K Joyce feat Neil Morrissey - Can We Fix It (TV Size) [no video]
+10/17/2021  01:23 PM    <DIR>          1063700 HyuN feat LyuU - Cross Over
+10/17/2021  01:23 PM    <DIR>          1063804 True Damage - GIANTS (feat Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose) [no video]
+10/17/2021  01:23 PM    <DIR>          1067064 Ikimonogakari - Blue Bird
+10/31/2021  03:43 PM    <DIR>          1067141 Reol - Hibikase [no video]
+10/17/2021  01:23 PM    <DIR>          1068981 Kenji Kawai - Unlimited Blade Works (TV Size)
+11/08/2021  09:28 PM    <DIR>          1073074 Turbo - PADORU _ PADORU
+10/17/2021  01:23 PM    <DIR>          1073131 Ben Moon ft Veela - Majesty
+10/17/2021  01:23 PM    <DIR>          1074503 grasun cat - ruriair
+03/04/2022  07:30 PM    <DIR>          1079318 Mediks - Don't Let Go
+10/17/2021  01:23 PM    <DIR>          1082526 Yorushika - Hachigatsu, Bou, Tsukiakari
+10/17/2021  01:18 PM    <DIR>          108296 Oratorio The World God Only Knows - God only knows -Secrets of the Goddess-
+10/17/2021  01:23 PM    <DIR>          1083830 Genkai Senshuraku - Ababababababababababa [no video]
+10/17/2021  01:23 PM    <DIR>          1083844 Akatsuki Records - HANIPAGANDA [no video]
+10/17/2021  01:18 PM    <DIR>          108461 Darren Korb - Setting Sail, Coming Home
+03/19/2022  02:46 PM    <DIR>          1085461 HoneyWorks - Watashi no Tenshi feat Narumi Sena (CV_ Amamiya Sora) [no video]
+10/17/2021  01:23 PM    <DIR>          1085929 LED - THE LAST STRIKER
+10/17/2021  01:18 PM    <DIR>          108633 Avicii - Wake Me Up
+10/17/2021  01:23 PM    <DIR>          1086483 Pendulum - The Fountain (feat Steven Wilson)
+10/17/2021  01:23 PM    <DIR>          1087898 Fox Stevenson - Dreamland
+10/17/2021  01:23 PM    <DIR>          1088022 Maduk - Liquicity Yearmix 2019
+10/17/2021  01:23 PM    <DIR>          1090113 goreshit - xenobeat
+10/17/2021  01:18 PM    <DIR>          109185 Lon - MATRYOSHKA
+10/17/2021  01:23 PM    <DIR>          1100001 ZUTOMAYO - Minority Myakuraku
+10/17/2021  01:23 PM    <DIR>          1100029 M2U - Mare Maris
+10/17/2021  01:23 PM    <DIR>          1105934 THE ORAL CIGARETTES - STAY ONE
+10/17/2021  01:23 PM    <DIR>          1107531 EVO+ - Aquila
+11/05/2021  06:25 PM    <DIR>          1108252 S3RL - Little Kandi Raver (Original Mix) (Cut Ver)
+10/17/2021  01:23 PM    <DIR>          1108263 GYZE - HONESTY
+10/17/2021  01:23 PM    <DIR>          1109083 BABYMETAL - Road of Resistance
+10/17/2021  01:18 PM    <DIR>          110985 senya - Youyoumu no Gotoku
+10/17/2021  01:23 PM    <DIR>          1112662 Imperial Circus Dead Decadence - Uta
+10/25/2021  12:46 PM    <DIR>          1115124 awfuless x yusi - Angelica
+10/17/2021  01:23 PM    <DIR>          1115477 Colors_Slash - Colors Power ni Omakasero!
+10/17/2021  01:23 PM    <DIR>          1115515 TUYU - Namikare
+10/17/2021  01:18 PM    <DIR>          111611 ZUN - Kobito of the Shining Needle _ Little Princess
+10/17/2021  01:23 PM    <DIR>          1117083 Eve - LEO
+10/17/2021  01:18 PM    <DIR>          111914 Rchetype - V Is For
+11/26/2021  03:31 PM    <DIR>          1119169 Yorushika - Itte
+10/17/2021  01:23 PM    <DIR>          1122381 Singularity - Alone (Au5 & Fractal Remix)
+10/17/2021  01:25 PM    <DIR>          11231 Breaking Benjamin - Blow Me Away
+10/17/2021  01:23 PM    <DIR>          1126767 Chata & Shimotsuki Haruka - Isshun no Qualia
+10/17/2021  01:23 PM    <DIR>          1129303 Station Earth - Cold Green Eyes feat Roos Denayer
+10/17/2021  01:23 PM    <DIR>          1134282 765 MILLION ALLSTARS - UNION!!
+10/17/2021  01:23 PM    <DIR>          1142060 onoken - unisonote
+10/17/2021  01:18 PM    <DIR>          114220 Halozy - KOKORO
+10/17/2021  01:23 PM    <DIR>          1144382 konore - Kiga to Hougyoku (Game Ver)
+10/17/2021  01:23 PM    <DIR>          1147266 Skrillex feat Shirakami Fubuki - First of the Year
+12/31/2021  11:28 AM    <DIR>          1148073 ONE OK ROCK - One by One
+10/17/2021  01:23 PM    <DIR>          1148442 HiTECH NINJA - Modelista
+10/17/2021  01:23 PM    <DIR>          1151004 UNDEAD CORPORATION - Embraced by the Flame
+10/17/2021  01:18 PM    <DIR>          115107 SirensCeol - Nightmare (Maxin Remix)
+10/31/2021  12:01 PM    <DIR>          1151815 ak+q - Shades of Light in a Transcendent Realm
+12/25/2021  08:21 PM    <DIR>          11527 Nightcore - Last Christmas
+10/17/2021  01:23 PM    <DIR>          1155295 TrySail - Utsuroi (Short Ver)
+10/17/2021  01:25 PM    <DIR>          11558 Nightcore - Ravers Fantasy
+10/17/2021  01:18 PM    <DIR>          116068 Clinton VanSciver & Swedish Egil - Love Letters (MitiS Chilled Overnight Remix)
+10/17/2021  01:23 PM    <DIR>          1170244 Ricky Montgomery - Snow
+12/13/2021  09:24 PM    <DIR>          1172666 TERRASPEX - AMAZING BREAK
+10/17/2021  01:23 PM    <DIR>          1174505 The Cab - Angel With A Shotgun (Sped Up Ver)
+10/17/2021  01:23 PM    <DIR>          1177530 Julian Calor - You Might Get Lost (Cut Ver)
+11/03/2021  09:12 PM    <DIR>          1178935 Nogizaka46 - Yubi Bouenkyou (TV Size) [no video]
+10/17/2021  01:23 PM    <DIR>          1179995 Lil Baby x Gunna - Drip Too Hard
+11/03/2021  08:36 PM    <DIR>          1180255 Farhan feat GUMI - Dandelion
+10/31/2021  03:32 PM    <DIR>          1181778 qfeileadh - breathe
+10/17/2021  01:23 PM    <DIR>          1183231 Kobaryo - Tool-Assisted Speedcore (TQBF Frame Advance RMX)
+01/20/2022  03:30 PM    <DIR>          1184336 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+10/17/2021  01:23 PM    <DIR>          1185464 KASAI HARCORES - Cycle Hit
+10/17/2021  01:23 PM    <DIR>          1186559 Au5 - Blossom
+10/17/2021  01:23 PM    <DIR>          1187509 Polyphia - GOAT
+10/17/2021  01:18 PM    <DIR>          118768 xi - Akasha
+10/24/2021  10:42 PM    <DIR>          1188740 ke-ji feat Nanahira - Ange du Blanc Pur
+10/17/2021  01:23 PM    <DIR>          1189295 Hayley Williams - Airplanes (Feint Drum and Bass Remix)
+03/20/2022  12:31 AM    <DIR>          1189978 Kobaryo - Bookmaker
+10/17/2021  01:23 PM    <DIR>          1190357 Mili - sustain++;
+10/17/2021  01:23 PM    <DIR>          1190470 factal - Flux
+10/17/2021  01:23 PM    <DIR>          1190716 Aoi Eir - Tsuki o Ou Mayonaka (TV Size)
+10/17/2021  01:23 PM    <DIR>          1192677 YOASOBI - Ano Yume o Nazotte
+10/17/2021  01:23 PM    <DIR>          1192759 LA2LY - The Ordeal
+03/06/2022  11:23 PM    <DIR>          1193588 Yamajet feat Hiura Masako - Sunglow
+03/19/2022  11:36 PM    <DIR>          1194047 DJ Mars - Lemon Tree (Lemon Dance Radio Edit)
+10/17/2021  01:17 PM    <DIR>          11951 Nightcore - Hymn
+10/17/2021  01:23 PM    <DIR>          1196347 Au5 - Singularity
+10/17/2021  01:23 PM    <DIR>          1198125 MY FIRST STORY - Fukagyaku Replace
+10/25/2021  01:07 PM    <DIR>          1198613 glass beach - bedroom community
+03/19/2022  02:16 PM    <DIR>          1201708 Adust Rain - Misery Song
+10/17/2021  01:23 PM    <DIR>          1204169 Logistics - Let The Senses Clear Your Mind
+10/17/2021  01:23 PM    <DIR>          1204367 Krewella - Live for the Night (Nightcore Mix)
+10/17/2021  02:02 PM    <DIR>          1204970 TJ Davis - Super Sonic Racing
+11/03/2021  09:07 PM    <DIR>          1207609 Seth Everman - how to create the weeknd's blinding lights [no video]
+10/17/2021  01:23 PM    <DIR>          1208943 Au5 feat Danyka Nadeau - Crossroad
+11/08/2021  09:37 PM    <DIR>          1209835 Bowling For Soup - Today is Gonna be a Great Day (TV Size) [no video]
+10/17/2021  01:23 PM    <DIR>          1212452 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+02/04/2022  08:21 PM    <DIR>          1214145 Rameses B - Children
+10/17/2021  01:23 PM    <DIR>          1214797 FELT - Goodbye
+10/17/2021  01:23 PM    <DIR>          1217211 Giorno & Critical Strikez - Darkness (Nightcore Mix)
+10/17/2021  01:17 PM    <DIR>          12191 Nightcore - Jump Jump
+10/17/2021  01:18 PM    <DIR>          122041 ginkiha+kamome sano - Dawn of Asia
+10/17/2021  04:55 PM    <DIR>          1222543 inabakumori - Lagtrain [no video]
+10/17/2021  01:23 PM    <DIR>          1224094 Feint - Snake Eyes (feat CoMa)
+10/17/2021  01:23 PM    <DIR>          1229343 t+pazolite - Count down 321
+10/17/2021  01:23 PM    <DIR>          1230364 Expander - diagram
+01/20/2022  03:31 PM    <DIR>          1230619 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+10/17/2021  01:24 PM    <DIR>          1231754 Au5 - Interstellar (feat Danyka Nadeau)
+10/17/2021  01:18 PM    <DIR>          123593 Rostik - Liquid (Paul Rosenthal Remix)
+12/18/2021  12:52 PM    <DIR>          1239072 THE ORAL CIGARETTES - GET BACK
+10/17/2021  01:24 PM    <DIR>          1239248 Street - Reincarnation
+10/17/2021  01:24 PM    <DIR>          1240877 mary - Henceforth
+10/17/2021  01:24 PM    <DIR>          1241096 Ado - Bocca della Verita
+10/17/2021  01:24 PM    <DIR>          1243188 Yuuma - Uta o Utau Hito
+11/03/2021  09:07 PM    <DIR>          1244123 chano & 40mP - Natsukoi Hanabi (Sped Up Ver)
+10/17/2021  01:18 PM    <DIR>          124458 TwoThirds - Breathe
+10/17/2021  01:24 PM    <DIR>          1246152 TUYU - Doro no Bunzai de Watashi dake no Taisetsu o Ubaouda nante
+10/17/2021  01:24 PM    <DIR>          1248042 Ray - km_h
+11/03/2021  07:54 PM    <DIR>          1249048 Set It Off - Horrible Kids
+10/17/2021  01:24 PM    <DIR>          1251070 Memme - China Dress
+10/17/2021  01:24 PM    <DIR>          1253410 Modern Talking - Win The Race
+10/17/2021  01:18 PM    <DIR>          125380 Duca - COLD BUTTERFLY
+10/17/2021  01:24 PM    <DIR>          1255411 Wisp X - Somewhere I'd Rather Be
+10/25/2021  12:34 PM    <DIR>          12563 Hanazawa Kana - Renai Circulation (Full ver)
+10/17/2021  01:24 PM    <DIR>          1256770 Suzuki Minori - Yozora
+10/17/2021  01:24 PM    <DIR>          1259053 fulusu - serum
+10/17/2021  01:24 PM    <DIR>          1259218 Matsushita - Darlingdance
+10/17/2021  01:24 PM    <DIR>          1260852 Yousei Teikoku - Kuusou Mesorogiwi
+10/31/2021  03:37 PM    <DIR>          1262960 Camellia - Chirality (Dissymmetric Long ver)
+10/17/2021  01:24 PM    <DIR>          1263837 Black Eyed Peas - Boom Boom Pow
+12/13/2021  09:26 PM    <DIR>          1267353 MASAKI (ZUNTATA) - Touhou Kijinretsu
+10/17/2021  01:24 PM    <DIR>          1269053 lapix - Carry Me Away
+10/17/2021  01:24 PM    <DIR>          1271180 senya - Shinra-Banshou ni Furete
+10/17/2021  01:24 PM    <DIR>          1272117 Porter Robinson - Sad Machine
+10/17/2021  01:24 PM    <DIR>          1272355 Fred V & Grafix - Ultraviolet
+10/17/2021  01:24 PM    <DIR>          1273533 Sakuragawa Megu - Unreal Creation!
+10/17/2021  01:24 PM    <DIR>          1273985 MitiS - Living Color (Original Mix)
+12/31/2021  11:27 AM    <DIR>          1274975 THE ORAL CIGARETTES - Miss Tail (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1275243 Eminem - Love The Way You Lie feat Rihanna
+11/13/2021  05:02 PM    <DIR>          1276364 Shade - Mars
+10/17/2021  01:18 PM    <DIR>          127712 Primastella - Koigokoro
+10/17/2021  01:24 PM    <DIR>          1279298 Inugami Korone & Nekomata Okayu - Hyadain's Jojo Yujo [no video]
+10/17/2021  01:24 PM    <DIR>          1279878 P4koo - Forbidden Light
+03/06/2022  11:22 PM    <DIR>          1280506 EDOGA-SULLIVAN - WONDERFUL WONDER (TV Size)
+10/17/2021  01:24 PM    <DIR>          1281295 Modern Talking - Win The Race
+10/17/2021  01:24 PM    <DIR>          1282660 Kano - Prima Stella
+10/17/2021  01:24 PM    <DIR>          1283879 Rameses B - Life Adjusts (feat Miyoki) (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1284506 ginkiha - EOS
+10/17/2021  01:18 PM    <DIR>          128931 Feint - Tower Of Heaven (You Are Slaves)
+11/05/2021  06:25 PM    <DIR>          1289711 Street - Reincarnation
+02/14/2022  11:07 PM    <DIR>          1291247 Aether Realm - Tarot
+10/17/2021  01:24 PM    <DIR>          1292543 Polyphia, Will Stetson - Inferno
+10/17/2021  01:24 PM    <DIR>          1293728 Ayane - Kamisama no Syndrome
+10/17/2021  01:24 PM    <DIR>          1295436 Muse - New Born
+10/17/2021  01:24 PM    <DIR>          1296562 96neko - Buriki no Dance
+10/17/2021  01:24 PM    <DIR>          1299595 Reol - Q
+10/17/2021  01:24 PM    <DIR>          1301375 Alkome - Mind Disorder
+10/17/2021  01:18 PM    <DIR>          130223 Feint (feat CoMa) - Snake Eyes
+10/17/2021  01:24 PM    <DIR>          1306570 NIWASHI - Playing with Ruby
+12/24/2021  12:46 PM    <DIR>          1311609 Gram (DJ Genki) - Nibelungen
+10/17/2021  01:24 PM    <DIR>          1312124 Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka
+10/17/2021  01:24 PM    <DIR>          1312994 Bird Problems - Quailia
+10/17/2021  01:24 PM    <DIR>          1313664 inabakumori - Lagtrain [no video]
+10/17/2021  01:24 PM    <DIR>          1316097 Kaede To Kyo Aki Ame Kuzu - Q
+10/17/2021  01:24 PM    <DIR>          1318125 Sasaki Sayaka - Love's Oracle
+10/17/2021  01:24 PM    <DIR>          1318282 Nekomata Master - The Sky of Sadness
+10/17/2021  01:24 PM    <DIR>          1319560 onoken - felys final remix
+10/17/2021  01:24 PM    <DIR>          1319692 Fred V & Grafix - Sunrise
+10/17/2021  01:24 PM    <DIR>          1321314 syatten remixed celas - Bird Sprite -Awakening of Light-
+10/17/2021  01:24 PM    <DIR>          1322215 casio dad - ends of the earth
+10/17/2021  01:17 PM    <DIR>          13223 Demetori - Emotional Skyscraper _ World's End
+10/17/2021  01:24 PM    <DIR>          1322727 Ado - USSEEWA
+10/17/2021  01:24 PM    <DIR>          1323628 Seven Lions - December (feat Davey Havok)
+10/17/2021  01:24 PM    <DIR>          1325151 Lifetheory - The Showdown
+10/17/2021  01:24 PM    <DIR>          1332346 KOAN Sound & Asa - Starlite
+11/26/2021  03:31 PM    <DIR>          1334202 Gentle Stick X M2U - Ineffabilis
+10/17/2021  01:24 PM    <DIR>          1334357 Girls Dead Monster STARRING LiSA - Ichiban no Takaramono _Yui final ver_
+10/17/2021  01:24 PM    <DIR>          1336972 Linkin Park vs Sally - Min the end
+12/24/2021  12:46 PM    <DIR>          1338059 Hoshino Mea - GROUND-ZERO
+03/11/2022  10:20 PM    <DIR>          1338384 m108 - _ Crow Solace _
+10/17/2021  01:24 PM    <DIR>          1339245 HNTD LYRICS - HONDA CIVIC [6SIX]
+10/25/2021  12:41 PM    <DIR>          1341551 Memme - Plasma Gun
+10/17/2021  01:24 PM    <DIR>          1341769 Unknown Artist - PROJECT X ZONE (US Opening)
+10/17/2021  01:24 PM    <DIR>          1346012 NICO Touches the Walls - Diver
+11/05/2021  06:26 PM    <DIR>          1347859 Wolpis Kater - Oxalis
+03/06/2022  11:17 PM    <DIR>          1348822 Persona - Area184
+10/17/2021  01:24 PM    <DIR>          1357624 sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)
+10/17/2021  01:24 PM    <DIR>          1360922 Unlucky Morpheus - Knight of Sword
+10/17/2021  01:24 PM    <DIR>          1362074 CINDERELLA PROJECT - Star!! (TV Size)
+10/17/2021  01:24 PM    <DIR>          1365175 Linkin Park - Breaking The Habit
+10/17/2021  01:24 PM    <DIR>          1370828 callasoiled - EN v189
+10/17/2021  01:24 PM    <DIR>          1373606 sokoninaru - Hyouri Ittai
+10/17/2021  01:24 PM    <DIR>          1373824 Apashe feat Geoffroy - Distance (KOAN Sound Remix)
+10/17/2021  01:24 PM    <DIR>          1376431 Porter Robinson - Sad Machine (Lexurus Remix)
+10/17/2021  01:24 PM    <DIR>          1377112 aran - LFO
+10/17/2021  01:24 PM    <DIR>          1377324 Utsu-P - Imperfect Animals
+10/17/2021  01:18 PM    <DIR>          137804 B-Complex - Beautiful Lies
+10/17/2021  01:24 PM    <DIR>          1379078 Drab Majesty - Dot In The Sky
+11/28/2021  01:38 AM    <DIR>          1379747 Armin van Buuren - In And Out Of Love (feat Sharon den Adel)
+01/12/2022  04:35 PM    <DIR>          1380291 YOASOBI - Halzion
+10/17/2021  01:24 PM    <DIR>          1381761 Modern Talking - Win The Race
+11/08/2021  09:50 PM    <DIR>          1384619 HO-KAGO TEA TIME - Kira Kira Days (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1385245 sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)
+10/17/2021  01:24 PM    <DIR>          1386585 Nanahoshi Kangengakudan - IMAGINARY LIKE THE JUSTICE
+03/19/2022  02:31 PM    <DIR>          1388906 Raphlesia & BilliumMoto - My Love [no video]
+10/17/2021  01:24 PM    <DIR>          1390484 Rameses B - Samurai
+10/17/2021  01:24 PM    <DIR>          1397802 polysha feat Sennzai - Hurt Urge
+10/17/2021  01:24 PM    <DIR>          1398227 ATC - Around The World (Nightcore Mix)
+10/17/2021  01:24 PM    <DIR>          1400282 Cartoon - On & On (feat Daniel Levi) (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1402367 Mimori Suzuko - Univer Page
+10/17/2021  01:24 PM    <DIR>          1405913 fiend - FEVER DREAM (feat yzzyx)
+10/17/2021  01:24 PM    <DIR>          1407641 Camellia feat Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver)
+03/06/2022  11:17 PM    <DIR>          1408685 MIOYAMAZAKI - Negaigoto
+03/19/2022  02:41 PM    <DIR>          1409478 Camellia feat Nanahira - POLKAMANIA
+10/17/2021  01:18 PM    <DIR>          141419 Linkin Park - Castle of Glass
+10/17/2021  01:18 PM    <DIR>          141605 Takanashi Yasuharu - Keisei Gyakuten
+10/17/2021  01:24 PM    <DIR>          1416320 Yuki Setsuna (CV_ Kusunoki Tomori) - MELODY
+10/17/2021  01:24 PM    <DIR>          1418152 Pendulum - The Fountain (feat Steven Wilson)
+10/17/2021  01:24 PM    <DIR>          1424488 NUAGE - CRAZY LITTLE LOVE
+03/11/2022  10:54 PM    <DIR>          1428781 Such - Envy Baby
+10/17/2021  01:24 PM    <DIR>          1430243 Kumada Akane - Brand new diary (TV Size) [no video]
+12/26/2021  03:06 PM    <DIR>          1433678 TrySail - Utsuroi
+10/17/2021  01:24 PM    <DIR>          1434419 Delta Heavy & MUZZ - Higher Ground (feat Cammie Robinson) (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1437749 Tritonal & Brooke Williams - Someone To Love You (Koven Remix) (Cut Ver)
+10/17/2021  01:18 PM    <DIR>          143812 Suzuyu - Mezameta Asa ni wa Kimi ga Tonari ni (TV Size) [no video]
+03/06/2022  11:25 PM    <DIR>          143823 Sim Gretina - Apples To The Core (Remix)
+10/17/2021  01:24 PM    <DIR>          1440543 dj TAKA feat AiMEE - refrain
+11/03/2021  08:59 PM    <DIR>          1440767 DM DOKURO - SAVE (Encore)
+10/17/2021  01:17 PM    <DIR>          14417 Edward Maya Ft Vika Jigulina - Stereo Love
+10/17/2021  01:24 PM    <DIR>          1442626 Sewerslvt - Newlove
+12/13/2021  09:26 PM    <DIR>          1443071 Oishi Masayoshi - Imperfect (TV Size)
+10/17/2021  01:24 PM    <DIR>          1443335 BaSTeT - DARK LEGACY -Long version-
+01/20/2022  03:30 PM    <DIR>          1444929 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+10/17/2021  01:24 PM    <DIR>          1447575 Se-U-Ra - Utsushi Gi no Shoujo Lix (Traveler Edit)
+10/17/2021  01:24 PM    <DIR>          1448237 Minato Aqua - Good-bye sengen
+10/17/2021  01:24 PM    <DIR>          1452528 milet - Drown
+12/31/2021  11:27 AM    <DIR>          1454367 Matrix & Futurebound feat Luke Bingham - All I Know (M&F's Rolling Out Radio Mi
+03/04/2022  07:31 PM    <DIR>          1456309 Fox Stevenson - All Eyes On Me (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1457034 Orla Gartland - Lonely People (Raise Spirit Remix)
+10/17/2021  01:24 PM    <DIR>          1457209 Hoshimachi Suisei - KING
+10/17/2021  01:24 PM    <DIR>          1457607 Shishido Kavka - Ashita o Narase
+10/17/2021  01:24 PM    <DIR>          1460718 Tatsh - Lunatic Tears (Tatsh Remix)
+10/17/2021  01:18 PM    <DIR>          146251 Feint - Sky Dance
+11/05/2021  06:25 PM    <DIR>          1465787 The Koxx - A Fool Moon Night
+10/17/2021  01:24 PM    <DIR>          1466116 Sawano Hiroyuki - Barricades _MOVIEver_
+03/09/2022  06:32 PM    <DIR>          1467383 MegaSphere - Inferno
+10/17/2021  01:24 PM    <DIR>          1469718 Camellia as Bang Riot - Blastix Riotz (Fullblast Long ver)
+03/18/2022  12:42 AM    <DIR>          1470072 Mage - The Words I Never Said
+10/17/2021  01:24 PM    <DIR>          1470255 Andromedik X Itro X Polygon - Fly (Cut Ver)
+03/19/2022  03:07 PM    <DIR>          1471082 Nakiri Ayame - Good-bye sengen
+10/17/2021  01:24 PM    <DIR>          1471117 Angelmaker - Requiem
+10/17/2021  01:24 PM    <DIR>          1474871 Xanthochroid - Toward Truth and Reconciliation
+10/17/2021  01:24 PM    <DIR>          1474960 Tomatsu Haruka - courage
+10/17/2021  01:24 PM    <DIR>          1475425 SirensCeol - Nightmare (Maxin Remix)
+10/17/2021  01:17 PM    <DIR>          14769 onoken - Felys
+10/17/2021  01:24 PM    <DIR>          1479179 GALNERYUS - HEAVENLY PUNISHMENT
+03/18/2022  12:48 PM    <DIR>          1482719 Luze - HERA (LONG Version)
+11/13/2021  05:01 PM    <DIR>          1483290 Duca - Passion
+10/17/2021  01:24 PM    <DIR>          1485184 Koven - Love Wins Again
+10/17/2021  01:18 PM    <DIR>          148615 Nanahira - Francium
+10/17/2021  01:18 PM    <DIR>          149045 Kicks N Licks Feat Nicole Millar - Own The Night (MitiS DnB Remix)
+10/17/2021  01:24 PM    <DIR>          1492986 Calum Scott - If Our Love Is Wrong
+10/17/2021  01:24 PM    <DIR>          1493195 sasakureUK - -echo-_ NieR Song of the Ancients _ Devola _ Song of the Ancients _ Popola
+10/17/2021  01:24 PM    <DIR>          1496811 T & Sugah - Wicked Days (Cut Ver)
+10/17/2021  01:24 PM    <DIR>          1497954 seatrus - TH3 5UMMONERS
+10/17/2021  01:17 PM    <DIR>          14983 Jan Wayne Vs Raindropz - Numb (Nightcore Ver)
+10/17/2021  01:24 PM    <DIR>          1499705 Linkin Park - Breaking The Habit
+10/17/2021  01:17 PM    <DIR>          15007 ANANT-GARDE EYES - Angelic Break Beats
+03/06/2022  11:17 PM    <DIR>          1501565 Reol - Q
+10/17/2021  01:24 PM    <DIR>          1502678 Metamorphose feat Yoko Ishida - Over The Testament (TV Size)
+10/17/2021  01:25 PM    <DIR>          1510767 Suzuki Konomi - Missing Promise (TV Size)
+10/17/2021  01:25 PM    <DIR>          1511294 BlackY feat Risa Yuzuki - Furin Kagerou
+10/17/2021  01:25 PM    <DIR>          1511716 mary x jon-YAKITORY - Koko de Ikiteru (TV Size)
+12/13/2021  09:26 PM    <DIR>          1515731 Primary - Sweets Weekend
+10/17/2021  02:01 PM    <DIR>          1519259 Rachel Taylor - Eternity (C3EYOND Remix)
+10/17/2021  01:25 PM    <DIR>          1519389 LAST ALLIANCE - HEKIREKI (TV Size)
+10/17/2021  01:25 PM    <DIR>          1525573 Thaehan - Ohayou !
+10/17/2021  01:25 PM    <DIR>          1526035 SHIKI - KLEINE
+03/19/2022  11:53 PM    <DIR>          1526448 Dustvoxx & Laur - FireLight (Neokontrol remix)
+11/13/2021  05:02 PM    <DIR>          1528608 SHIKI - Lapis
+10/17/2021  01:25 PM    <DIR>          1529429 goreshit - the pain of relief (we have our vices one and all)
+10/17/2021  02:02 PM    <DIR>          1530913 The Kid LAROI, Justin Bieber - Stay
+11/15/2021  07:57 PM    <DIR>          1531782 Duca - Time is
+11/15/2021  07:57 PM    <DIR>          1533028 Camellia - Flamewall
+11/05/2021  06:25 PM    <DIR>          1537583 Zektbach - Turii _Panta rhei_
+10/31/2021  12:01 PM    <DIR>          1540754 Brian The Sun - Lonely Go! (TV Size)
+12/18/2021  12:51 PM    <DIR>          1542598 ClariS - Careless (TV Size)
+11/14/2021  09:29 PM    <DIR>          1542705 Cascada - Miracle (Nightcore & Cut Ver)
+10/17/2021  02:01 PM    <DIR>          1545216 T & Sugah - Demons (feat Voicians)
+10/17/2021  01:25 PM    <DIR>          1546256 Natsume Itsuki - Lev0
+11/08/2021  08:44 PM    <DIR>          1546846 Sawano Hiroyuki - Inferno
+10/17/2021  01:25 PM    <DIR>          1548941 BoB feat Hayley Williams - Airplanes (Feint Drum and Bass Remix)
+11/15/2021  07:58 PM    <DIR>          1549308 nonet - Now On Stage!!
+11/20/2021  03:15 PM    <DIR>          1550315 ShinRa-Bansho - Uchouten Dreamers
+12/31/2021  11:28 AM    <DIR>          1550327 USAO - Knight Rider
+10/17/2021  01:25 PM    <DIR>          1553187 Kamiyama Yoh - Irokousui (TV Size)
+11/20/2021  03:15 PM    <DIR>          1554918 Takayan - I love you in any way
+10/17/2021  01:18 PM    <DIR>          155582 Krewella - Alive
+10/17/2021  01:25 PM    <DIR>          1556076 Vivy (CV_ Yagi Kairi) - Sing My Pleasure (TV Size)
+10/17/2021  01:25 PM    <DIR>          1557051 Suzuki Konomi - AVENGE WORLD (TV Size)
+10/17/2021  01:25 PM    <DIR>          1557289 Rita - Negai no Hana
+03/04/2022  07:30 PM    <DIR>          1558637 Steve Aoki & Yellow Claw - End Like This feat RUNN
+11/13/2021  05:02 PM    <DIR>          1560053 Nesta Rae - Stay (Soular Order Remix)
+02/04/2022  08:21 PM    <DIR>          1566796 Kanye West - All Of The Lights
+10/17/2021  01:25 PM    <DIR>          1568902 FATE GEAR - Headless Goddess
+11/08/2021  08:44 PM    <DIR>          1569373 Isekai Joucho - Hydrangea
+10/17/2021  02:01 PM    <DIR>          1572918 Lexurus - Take Me Away (Cut Ver)
+11/15/2021  07:57 PM    <DIR>          1577313 Kurubukko - The 84th Flight
+12/26/2021  03:05 PM    <DIR>          1577887 FinnOtaku - C-Side of YTPMV
+10/17/2021  01:18 PM    <DIR>          158023 UNDEAD CORPORATION - Everything will freeze
+03/09/2022  06:32 PM    <DIR>          1586261 Megasphere - Inferno
+11/08/2021  08:44 PM    <DIR>          1586938 EYKHA (CV_ Sawashiro Miyuki), LOU (CV_ Uchida Maaya), MERYL (CV
+11/20/2021  03:15 PM    <DIR>          1587567 OH MY GIRL - Etoile (TV Size)
+10/17/2021  01:25 PM    <DIR>          1588194 virgin gang - Virginity Syndrome
+12/24/2021  02:14 PM    <DIR>          1589104 Jessica - Jessica Slept with Mr Wilson
+12/13/2021  09:26 PM    <DIR>          1589186 Tomita Miyu - Broken Sky (TV Size)
+11/20/2021  03:15 PM    <DIR>          1589799 nao - Soutaisei VISION
+11/14/2021  09:29 PM    <DIR>          1592271 Dasoku - The Noise of Rain
+10/17/2021  01:18 PM    <DIR>          159357 Dzeko & Torres - 2013 In 10 Minutes
+01/12/2022  04:34 PM    <DIR>          1594067 Haruka Shimotsuki - Ayakashibana to Yumeutsutsu
+03/11/2022  10:25 PM    <DIR>          1594556 Wolpis Carter - Batsubyou
+03/18/2022  12:32 PM    <DIR>          1596950 Scott Brown - Go Berzerk
+11/08/2021  08:44 PM    <DIR>          1597607 Nakamura Meiko - Dispel
+11/26/2021  03:31 PM    <DIR>          1598592 HoneyWorks - Daikirai na Hazu Datta feat Hanae Natsuki, Asakura Momo
+11/13/2021  05:02 PM    <DIR>          1599795 Utagumi Setsugetsuka - Yumemi Sunrise
+12/13/2021  09:26 PM    <DIR>          1600169 THE ORAL CIGARETTES - Amy
+01/12/2022  04:34 PM    <DIR>          1601229 Ikimonogakari - Blue Bird feat k_chan [ dj-Jo Remix ] TV Size
+03/04/2022  07:30 PM    <DIR>          1603851 Hybrid Minds & Fred V - Drowning In You
+10/31/2021  12:01 PM    <DIR>          1604123 LiSA - Yuke
+11/26/2021  03:31 PM    <DIR>          1604974 Sasaki Sayaka - Koi Saku Mirai
+12/24/2021  12:46 PM    <DIR>          1609692 miraie - peace
+11/26/2021  03:31 PM    <DIR>          1610753 Rin'ca - Kiseki Melody
+03/04/2022  07:30 PM    <DIR>          1611358 Mako - Breathe
+11/20/2021  03:15 PM    <DIR>          1611375 LiSA - Akeboshi
+11/08/2021  08:44 PM    <DIR>          1611794 Ohara Yuiko - Kaze to Iku Michi (TV Size)
+12/31/2021  11:28 AM    <DIR>          1615019 Morfonica - Daylight
+10/17/2021  01:18 PM    <DIR>          161526 Mikami Shiori - Shiawase Gift
+11/16/2021  09:19 PM    <DIR>          1615650 kors k - SigSig
+12/26/2021  03:07 PM    <DIR>          1620540 Krewella - Say Goodbye (Sped Up & Cut Ver)
+12/24/2021  12:46 PM    <DIR>          1622467 Risa Yuzuki - Tarantella (feat BlackY)
+12/26/2021  03:07 PM    <DIR>          1624878 Fred V & Grafix - Electrify (feat Amy J Pryce)
+10/17/2021  01:18 PM    <DIR>          162800 Linkin Park - Living Things
+12/24/2021  12:46 PM    <DIR>          1632058 koruru528 - Santa Claus Is Coming To Town
+01/12/2022  04:35 PM    <DIR>          1632720 SUPER BEAVER - Toppakou (TV Size)
+10/17/2021  01:17 PM    <DIR>          16337 Tada Aoi - Brave Song (TV Size)
+12/24/2021  12:46 PM    <DIR>          1634114 SawanoHiroyuki[nZk]_Aimer - ninelie _cry-v_
+12/24/2021  12:46 PM    <DIR>          1638732 Release Hallucination - Dystopia
+12/24/2021  12:46 PM    <DIR>          1641533 Down - Luscent
+12/24/2021  12:46 PM    <DIR>          1641840 AKINO with bless4 - Yuki no Youni
+03/04/2022  07:30 PM    <DIR>          1643400 McClain Sisters - Go (Nightcore Mix)
+03/04/2022  01:37 PM    <DIR>          1644574 FANTASY PROJECT - Dam Dadi Doo
+02/04/2022  08:21 PM    <DIR>          1648401 Team Nekokan [Neko] - Airman ga Taosenai
+03/04/2022  07:31 PM    <DIR>          1649788 Fred V & Grafix - Altitude (feat Amy J Pryce)
+12/26/2021  03:06 PM    <DIR>          1649838 ASCA - Rin (TV Size)
+12/31/2021  11:28 AM    <DIR>          1649891 Seraph - for Black, Dear Dahlia
+01/12/2022  04:35 PM    <DIR>          1650693 Marika Kohno - New story
+01/12/2022  04:35 PM    <DIR>          1657501 Komichi Aya (CV_ Taneda Risa) - Koiiro Iris
+10/17/2021  01:18 PM    <DIR>          165973 MitiS - Elements of Thought (Original Mix)
+01/12/2022  04:35 PM    <DIR>          1661349 Aimer - Zankyo Sanka (TV Size)
+10/17/2021  01:18 PM    <DIR>          166137 Hashimoto Jin - STAND PROUD (TV Size)
+01/12/2022  04:35 PM    <DIR>          1665441 Aimer - Zankyo Sanka (TV Size)
+03/04/2022  07:30 PM    <DIR>          1667478 Maduk - Company (feat Juul) (Cut Ver)
+03/16/2022  12:38 PM    <DIR>          1677263 Feint - The Journey (feat Veela)
+03/06/2022  11:17 PM    <DIR>          1684373 BlackY - azalea
+10/17/2021  01:18 PM    <DIR>          169041 mintea - Natsu ga Kuru yo
+03/06/2022  11:17 PM    <DIR>          1691507 Freda - Maybe (Tronix DJ Remix) (Nightcore Mix)
+03/06/2022  11:25 PM    <DIR>          172055 Yuuki Aoi - Mata Ashita
+10/17/2021  01:18 PM    <DIR>          172293 kanonxkanon - Calendula Requiem
+10/17/2021  01:18 PM    <DIR>          172546 goreshit - beautiful loli thing
+03/19/2022  11:09 PM    <DIR>          172883 AQUA STYLE - Touhou Youyoumu _ Ancient Temple
+10/17/2021  01:18 PM    <DIR>          173468 Linkin Park - Breaking The Habit
+11/08/2021  10:31 PM    <DIR>          175968 Trident - Blue Field [no video]
+03/19/2022  11:42 PM    <DIR>          1785 Nico Nico Douga - UN Owen Was Her [no video]
+10/17/2021  01:18 PM    <DIR>          179247 Hiroyuki Sawano feat Mika Kobayashi - Bios Epic Edition
+10/17/2021  01:18 PM    <DIR>          180823 Negoto - Charon (DJ SEVEN PnB Refix)
+10/17/2021  01:18 PM    <DIR>          183132 MitiS - Movements Feat MaHi (Original Mix) (Speed Up Ver)
+03/06/2022  11:26 PM    <DIR>          186458 Avicii - Addicted To You
+10/17/2021  01:17 PM    <DIR>          18793 Usura & Datura - Infinity (Nightcore Mix)
+10/17/2021  01:19 PM    <DIR>          189756 Matrix & Futurebound - Magnetic Eyes (feat Baby Blue)
+10/17/2021  01:19 PM    <DIR>          194394 MY FIRST STORY - Fukagyaku Replace
+10/17/2021  01:19 PM    <DIR>          197747 onoken - Felys (BMS Edit)
+03/19/2022  03:17 PM    <DIR>          199535 Seiryu - Critical Crystal
+10/17/2021  01:19 PM    <DIR>          200176 Mikakuning! - Tomadoi_Recipe [no video]
+10/17/2021  01:19 PM    <DIR>          201141 TK from Ling tosite sigure - unravel (TV edit)
+10/17/2021  01:17 PM    <DIR>          20265 ANANT-GARDE EYES, Maeda Jun - Unjust Life
+03/19/2022  02:23 PM    <DIR>          204925 LiSA - traumerei
+10/17/2021  01:19 PM    <DIR>          206750 Hige Driver join SELEN - Dadadadadadadadadada
+10/17/2021  01:19 PM    <DIR>          206939 Amatsuki & Midori Inu - Mono Crossroad
+03/06/2022  11:25 PM    <DIR>          208112 Kitamura Eri & Nonaka Ai - and I'm home
+10/17/2021  01:19 PM    <DIR>          210937 SawanoHiroyuki[nZk]mizuki - aLIEz (TV size)
+10/17/2021  01:19 PM    <DIR>          212180 Igorrr - Tout Petit Moineau
+10/17/2021  01:17 PM    <DIR>          21219 Cascada - Everytime We Touch (Nightcore Mix)
+11/27/2021  02:44 PM    <DIR>          214046 dj TAKA - Colors -sasakureUK Futurelogic Remix-
+10/17/2021  01:17 PM    <DIR>          21550 Two Steps From Hell - Dragon Rider
+10/17/2021  01:19 PM    <DIR>          219380 Konuko - Toumei Elegy
+10/17/2021  01:17 PM    <DIR>          21949 Alex C feat Yasmin K - Angel of Darkness (Nightcore Mix)
+10/17/2021  01:19 PM    <DIR>          221358 Goose house - Hikaru nara -TV size-
+10/17/2021  01:19 PM    <DIR>          221408 Goose house - Hikaru nara -TV size-
+10/17/2021  01:19 PM    <DIR>          222565 Doxx & Feint - Mind In Motion
+10/17/2021  01:19 PM    <DIR>          223180 Goose house - Hikaru nara -TV size-
+10/17/2021  01:19 PM    <DIR>          223303 TwoThirds & Feint - Epiphany (feat Veela)
+10/17/2021  01:19 PM    <DIR>          223871 Goose house - Hikaru nara -TV size- [no video]
+10/17/2021  01:19 PM    <DIR>          224157 Feint - 161914
+10/17/2021  01:19 PM    <DIR>          224496 Linkin Park - Robot Boy
+10/17/2021  01:19 PM    <DIR>          226670 senya - Iro wa Jou e to Izanau
+10/17/2021  01:19 PM    <DIR>          227021 MY FIRST STORY - Fukagyaku Replace
+10/17/2021  01:19 PM    <DIR>          229860 Neru feat Glutamine - Lost One no Goukoku
+10/17/2021  01:19 PM    <DIR>          230367 MISATO - Necro Fantasia
+10/17/2021  01:19 PM    <DIR>          231476 Silent Siren - Koi Yuki
+10/17/2021  01:19 PM    <DIR>          233233 Taylor Swift - Last Christmas
+10/17/2021  01:17 PM    <DIR>          23415 Fantasy Project - Crazy Baby (Nightcore Mix)
+10/17/2021  01:19 PM    <DIR>          235954 Kaj x SoundNet - New Age Voyager
+10/17/2021  01:19 PM    <DIR>          236292 Agressor Bunx - Tornado (Original Mix)
+10/17/2021  01:17 PM    <DIR>          23647 YA-KYIM - BAKUROCK _Mirai no Rinkakusen_
+10/17/2021  01:19 PM    <DIR>          237478 Meg & Dia - Monster (DotEXE Remix)
+10/17/2021  01:19 PM    <DIR>          237645 Goose house - Hikaru nara -TV size- [no video]
+10/17/2021  01:19 PM    <DIR>          237768 Our Stolen Theory - United (LAOS Remix)
+10/17/2021  01:19 PM    <DIR>          239330 Rameses B - We Love
+10/17/2021  01:19 PM    <DIR>          241474 TwoThirds & Feint - Epiphany (feat Veela)
+10/17/2021  01:19 PM    <DIR>          241526 Soleily - Renatus
+10/17/2021  01:17 PM    <DIR>          24313 Team Nekokan - Can't Defeat Airman
+10/17/2021  01:19 PM    <DIR>          248948 onoken - vijore
+10/17/2021  01:17 PM    <DIR>          24900 Paolo Ligorio - The Colors of My Life
+03/18/2022  12:27 PM    <DIR>          252981 DJ Okawari - Flower Dance (Short Ver)
+10/17/2021  01:19 PM    <DIR>          255311 MitiS - Touch (Original Mix)
+10/17/2021  01:19 PM    <DIR>          255793 Au5 - Snowblind (feat Tasha Baxter)
+10/17/2021  01:18 PM    <DIR>          25707 ATC - Around The World (Nightcore Mix)
+10/17/2021  01:19 PM    <DIR>          258585 t+pazolite - Count down 321
+10/17/2021  01:18 PM    <DIR>          26145 Kagamine Rin - Meltdown (Ryu Remix)
+10/17/2021  01:19 PM    <DIR>          261911 MitiS & MaHi - Blu (Speed Up Ver)
+10/17/2021  01:19 PM    <DIR>          263275 Star Driver - Wait For Me
+10/17/2021  01:18 PM    <DIR>          26364 Rihanna - Only Girl (In The World)
+10/17/2021  01:19 PM    <DIR>          264147 SawanoHiroyuki[nZk]_mizuki - &Z (TV size) [no video]
+10/17/2021  01:18 PM    <DIR>          26716 Aqua Timez - Mayonaka no Orchestra (TV Size)
+10/17/2021  01:19 PM    <DIR>          271159 Krewella - Live for the Night (Nightstep Mix)
+10/17/2021  01:19 PM    <DIR>          277421 Lindsey Stirling - Senbonzakura
+11/26/2021  03:31 PM    <DIR>          279247 Sia - Elastic Heart
+10/17/2021  01:19 PM    <DIR>          282345 FLOWxGRANRODEO - 7 -seven- -TV SIZE - [no video]
+10/17/2021  01:19 PM    <DIR>          284931 Porter Robinson - Flicker
+10/17/2021  01:19 PM    <DIR>          286414 Camellia - dreamless wanderer
+10/17/2021  01:19 PM    <DIR>          288528 Feint - Horizons (feat Veela)
+10/17/2021  01:19 PM    <DIR>          288824 Jeff Williams - Die (feat Casey Lee Williams)
+10/23/2021  07:08 PM    <DIR>          292077 Reol - Asymmetry
+03/19/2022  03:01 PM    <DIR>          292301 xi - Blue Zenith
+10/17/2021  01:19 PM    <DIR>          293098 Rameses B - Timeless ft Veela
+10/17/2021  01:19 PM    <DIR>          293563 Faylan - Tokyo Zero Hearts [no video]
+10/17/2021  01:19 PM    <DIR>          294493 Rameses B - Utopia (ft Holly Drummond)
+10/17/2021  01:19 PM    <DIR>          294496 KOAN Sound & Asa - Starlite
+10/17/2021  01:18 PM    <DIR>          29553 Edward Maya feat Vika Jigulina - Stereo Love
+10/17/2021  01:19 PM    <DIR>          296185 MitiS - Movements (feat MaHi)
+10/17/2021  01:19 PM    <DIR>          299224 raja - the light
+10/17/2021  01:19 PM    <DIR>          300330 Rameses B - Timeless ft Veela
+10/17/2021  01:19 PM    <DIR>          301138 Pegboard Nerds - Try This [no video]
+10/17/2021  01:19 PM    <DIR>          302259 Ben Moon ft Veela - Majesty
+10/17/2021  01:19 PM    <DIR>          302756 Nanahoshi Kangengakudan - Meikaruza
+03/19/2022  11:05 PM    <DIR>          302972 Sakuzyo - Imprinting
+10/17/2021  01:19 PM    <DIR>          303129 Rameses B - Mountains (Ft Veela)
+10/17/2021  01:19 PM    <DIR>          306591 HoneyWorks - Miraizu featAida Miou(CVToyosaki Aki)
+10/17/2021  01:19 PM    <DIR>          307163 TwoThirds & Feint - Epiphany (feat Veela)
+10/17/2021  01:18 PM    <DIR>          30905 Rihanna - California King Bed
+10/17/2021  01:19 PM    <DIR>          309511 MitiS - Living Color (Original Mix)
+10/17/2021  01:19 PM    <DIR>          310499 Reol - Asymmetry
+10/17/2021  01:19 PM    <DIR>          311328 Foreground Eclipse - Storytellers
+10/17/2021  01:18 PM    <DIR>          31151 Manabu Namiki - Emiya
+10/17/2021  01:18 PM    <DIR>          31468 Linkin Park - In The End
+10/17/2021  01:19 PM    <DIR>          315299 Rita - Dream Walker
+10/17/2021  01:19 PM    <DIR>          315530 Aimer - Brave Shine (TV size)
+10/17/2021  01:19 PM    <DIR>          317439 dj TAKA - Colors -sasakureUK Futurelogic Remix-
+11/26/2021  03:31 PM    <DIR>          319314 Sia - Chandelier
+10/17/2021  01:19 PM    <DIR>          319375 Birdy - Wings (Nu_Logic Remix)
+10/17/2021  01:19 PM    <DIR>          320118 Reol - No title
+10/17/2021  01:18 PM    <DIR>          32046 Hatsune Miku - Hiatus [no video]
+10/17/2021  01:19 PM    <DIR>          320504 Rameses B - Mountains (feat Veela)
+10/17/2021  01:19 PM    <DIR>          322933 Alan Walker - Spectre
+10/17/2021  01:19 PM    <DIR>          324058 Feint - Reprise
+10/24/2021  10:42 PM    <DIR>          324303 Zedd - Clarity (feat Foxes) (kamome sano remix)
+10/17/2021  01:19 PM    <DIR>          325112 Roses Epicurean - Yoru no Kodomo tachi
+10/17/2021  01:19 PM    <DIR>          325158 AKINO from bless4 & CHiCO with HoneyWorks - MIIRO vs Ai no Scenario
+10/17/2021  01:19 PM    <DIR>          329290 Doxx & Feint - The Pink Fields
+10/17/2021  01:19 PM    <DIR>          329442 Draper - Set Me Free
+10/17/2021  01:19 PM    <DIR>          334992 Eric Prydz - Liberate (Matrix & Futurebound Remix)
+10/17/2021  01:19 PM    <DIR>          336173 Ci Mei Gui - Wu Xuan Lan
+10/17/2021  01:19 PM    <DIR>          336921 Rameses B - With You
+10/17/2021  01:19 PM    <DIR>          338542 Wada Kouji - Butter-Fly
+10/17/2021  01:19 PM    <DIR>          339708 Rameses B - Transcend
+03/06/2022  11:26 PM    <DIR>          33984 Yui Horie - Vanilla Salt (TV Size) [no video]
+10/17/2021  01:19 PM    <DIR>          340263 Rootkit - Against The Sun (feat Anna Yvette)
+10/17/2021  01:19 PM    <DIR>          340724 Au5 - Blossom
+10/17/2021  01:19 PM    <DIR>          341007 Akira Complex - Odyssey (Au5 Remix)
+10/17/2021  01:18 PM    <DIR>          34203 Nekomata Master - Far east nightbird
+10/17/2021  01:19 PM    <DIR>          342218 MY FIRST STORY - Fukagyaku Replace
+10/17/2021  01:19 PM    <DIR>          344692 DJ SHARPNEL - BLUE ARMY
+10/17/2021  01:19 PM    <DIR>          346872 KISIDA KYODAN & THE AKEBOSI ROCKETS - GATE_Sore wa Akatsuki no you ni_ (TV size) [no video]
+10/17/2021  01:19 PM    <DIR>          347276 Rameses B - We Love
+10/17/2021  01:25 PM    <DIR>          3492 Linkin Park - Faint
+10/17/2021  01:19 PM    <DIR>          349445 Dancing Dolls - monochrome(Asterisk Makina Remix)
+01/20/2022  01:51 AM    <DIR>          351630 kradness&Reol - Remote Control
+10/17/2021  01:19 PM    <DIR>          351838 YUI - Rolling star
+10/17/2021  01:19 PM    <DIR>          352489 APG550 - NEVERLAND
+10/17/2021  01:19 PM    <DIR>          354537 Feint - Vagrant (feat Veela)
+10/17/2021  01:19 PM    <DIR>          354792 Feint - Vagrant (feat Veela)
+10/17/2021  01:19 PM    <DIR>          355322 nekodex - circles!
+10/17/2021  01:19 PM    <DIR>          356752 NateWantsToBattle feat Amanda Lee - Kuusou Mesorogiwi [no video]
+10/17/2021  01:19 PM    <DIR>          357487 DJ'TEKINA__SOMETHING - Internet bitch P_Light Remix
+10/17/2021  01:19 PM    <DIR>          357777 NOMA - Brain Power
+10/17/2021  01:19 PM    <DIR>          358119 Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)
+10/17/2021  01:19 PM    <DIR>          358350 Dollscythe - Flashes (Extended)
+10/17/2021  01:19 PM    <DIR>          359404 La Caution - The a la menthe (Instrumental)
+10/17/2021  01:19 PM    <DIR>          362335 Star Driver - 5 Centimeters Per Second
+10/17/2021  01:19 PM    <DIR>          363882 PLight - YELLOW SPLASH!!
+10/17/2021  01:20 PM    <DIR>          364652 petit milady - Koi wa Milk Tea
+10/17/2021  01:20 PM    <DIR>          366440 Reol - MONSTER
+10/17/2021  01:20 PM    <DIR>          366706 Camellia & DJ Genki - Feelin Sky
+10/17/2021  01:20 PM    <DIR>          368545 Maduk - Liquicity Yearmix 2014 (Cut ver)
+10/17/2021  01:20 PM    <DIR>          368985 WEAVER - Kuchizuke Diamond
+10/17/2021  01:20 PM    <DIR>          370603 TwoThirds & Feint feat Veela - Starscapes (Rameses B Remix)
+10/17/2021  01:20 PM    <DIR>          371128 Station Earth - Cold Green Eyes ft Roos Denayer
+10/17/2021  01:20 PM    <DIR>          372144 Cartoon - Whatever I Do (feat Kostja)
+10/17/2021  01:20 PM    <DIR>          372851 Ni-Sokkususu - Blade Dance [no video]
+10/17/2021  01:20 PM    <DIR>          373114 CHiCO with HoneyWorks - color
+10/17/2021  01:20 PM    <DIR>          374078 Wada Kouji - Butter-Fly_triVersion_
+10/17/2021  01:20 PM    <DIR>          374683 Breaking Benjamin - Breath
+10/17/2021  01:20 PM    <DIR>          374900 Cilvery - Kamisama Nejimaki
+10/17/2021  01:20 PM    <DIR>          375402 onoken - Viden
+12/25/2021  08:21 PM    <DIR>          375877 Mariah Carey - All I Want For Christmas Is You
+10/17/2021  01:20 PM    <DIR>          376397 USAO - Night sky
+10/17/2021  01:20 PM    <DIR>          377407 Matrix & Futurebound - Happy Alone (Extended Mix)
+10/17/2021  01:20 PM    <DIR>          378803 EVO+ - [A]ddiction
+10/17/2021  01:20 PM    <DIR>          379296 Misokkasu - Rising Rainbow [no video]
+10/17/2021  01:20 PM    <DIR>          382400 DragonForce - Through the Fire and Flames
+10/17/2021  01:20 PM    <DIR>          383095 Memtrix - All You Are
+10/17/2021  01:20 PM    <DIR>          384535 Feint - Stray
+10/17/2021  01:18 PM    <DIR>          39182 ESTi - Secret Wish
+10/17/2021  01:20 PM    <DIR>          391865 Feint - My Sunset
+10/17/2021  01:20 PM    <DIR>          392041 Muzzy - Calling Out (feat KG & Skyelle) (Speed Up Ver)
+10/17/2021  01:20 PM    <DIR>          392801 Three Days Grace - No More
+10/17/2021  01:20 PM    <DIR>          394729 Dzeko & Torres - 2015 in 10 Minutes
+10/17/2021  01:20 PM    <DIR>          396370 Camellia - dfor the DELTA
+10/17/2021  01:20 PM    <DIR>          397905 Muzzy - Endgame
+10/17/2021  01:20 PM    <DIR>          398338 Feint ft Veela - Horizons
+10/17/2021  01:20 PM    <DIR>          398819 Wada Kouji - The Biggest Dreamer (TV Size)
+10/17/2021  01:20 PM    <DIR>          399151 Camellia - crystallized
+10/17/2021  01:20 PM    <DIR>          399358 KANA-BOON - Silhouette
+10/17/2021  01:18 PM    <DIR>          40233 Falcom Sound Team jdk - Over Drive
+10/17/2021  01:20 PM    <DIR>          403282 Camellia - Routing
+11/08/2021  10:32 PM    <DIR>          404269 Wish I Was - Stop This
+10/17/2021  01:20 PM    <DIR>          404844 Celldweller - End of an Empire
+10/17/2021  01:20 PM    <DIR>          405221 MitiS - Movements Feat MaHi (Original Mix)
+10/17/2021  01:20 PM    <DIR>          407055 MC Mental - MC Mental at His Best
+12/25/2021  08:21 PM    <DIR>          40942 Taylor Swift - Last Christmas
+10/17/2021  01:20 PM    <DIR>          411894 Remo Prototype[CV_ Hanamori Yumiri] - Sendan Life
+10/17/2021  01:18 PM    <DIR>          41384 Hisui Rika & Hotarubi Kakeru - Natsu no Hi (Short Ver)
+10/17/2021  01:20 PM    <DIR>          414543 Camellia & DJ Genki - Feelin Sky
+10/17/2021  01:20 PM    <DIR>          414842 Feint - Clockwork Hearts
+10/17/2021  01:20 PM    <DIR>          415602 Goose house - Hikaru nara -TV size-
+10/17/2021  01:18 PM    <DIR>          41686 Lily - Scarlet Rose
+03/19/2022  11:49 PM    <DIR>          41823 The Quick Brown Fox - The Big Black
+10/17/2021  01:20 PM    <DIR>          422136 Sota Fujimori - polygon
+10/17/2021  01:20 PM    <DIR>          423527 dj TAKA - quaver
+10/17/2021  01:20 PM    <DIR>          424295 DOES - Guren
+10/17/2021  01:20 PM    <DIR>          424600 Camellia - Exit This Earth's Atomosphere
+10/17/2021  01:20 PM    <DIR>          425219 Lan Zi - Yi Bai Kuai Dou Bu Gei Wo
+10/17/2021  01:20 PM    <DIR>          427864 Nekomata Master+ - Proof of the existence
+10/17/2021  01:20 PM    <DIR>          428463 Starset - My Demons
+10/17/2021  01:20 PM    <DIR>          429411 Maduk - Liquicity Yearmix 2015
+03/06/2022  11:25 PM    <DIR>          43016 Nishino Kana - Distance
+10/17/2021  01:20 PM    <DIR>          430622 Girls' Generation - Gee
+10/17/2021  01:20 PM    <DIR>          431248 CHiCO with HoneyWorks - Koiiro ni Sake [no video]
+10/17/2021  01:20 PM    <DIR>          431708 Silent Siren - Hachigatsu no Yoru
+10/17/2021  01:20 PM    <DIR>          432314 Mike Greene - Bill Nye the Science Guy Theme Song (Chinese Intro)
+10/17/2021  01:20 PM    <DIR>          434391 Manoeuvres - Mad World (Station Earth Remix)
+10/17/2021  01:18 PM    <DIR>          43522 Gym Class Heroes feat Adam Levine - Stereo Hearts
+11/28/2021  01:37 AM    <DIR>          436523 Jessie J, Ariana Grande, Nicki Minaj - Bang Bang
+10/17/2021  01:18 PM    <DIR>          43674 Hiroyuki Sawano feat Mika Kobayashi - Bios
+10/17/2021  01:20 PM    <DIR>          437030 Nanamori-chu_Goraku-bu - Yuru Yurinrinrinrinrin
+10/31/2021  03:14 PM    <DIR>          437097 Yura Hatsuki - Yuki no Hana
+10/17/2021  01:20 PM    <DIR>          439104 amazarashi - Kisetsu wa Tsugitsugi Shindeiku -Tokyo Ghoul Root A Edit- [no video]
+10/17/2021  01:20 PM    <DIR>          439731 Roses Epicurean - Yoru no Kodomo-tachi
+10/17/2021  01:20 PM    <DIR>          440169 Goose house - Hikaru nara
+10/17/2021  01:20 PM    <DIR>          440980 senya - Youyoumu no Gotoku (Autobahn Remix)
+10/17/2021  01:20 PM    <DIR>          441155 Chino(CVMinase Inori) - Shinsaku no Shiawase wa Kochira!
+10/24/2021  10:54 PM    <DIR>          442587 Days N' Daze - Misanthropic Drunken Loner
+10/17/2021  01:20 PM    <DIR>          443589 Shiena Nishizawa - Meaning
+10/17/2021  01:20 PM    <DIR>          443972 Hideyuki Fukasawa - EMIYA _UBW Extended_
+11/03/2021  09:12 PM    <DIR>          444335 HO-KAGO TEA TIME - Kira Kira Days
+11/08/2021  10:31 PM    <DIR>          444793 Musashi Project & Toshiro Masuda - Ofuzake Mode
+10/17/2021  01:20 PM    <DIR>          446332 Rameses B - Neon Rainbow (ft Anna Yvette)
+10/17/2021  01:20 PM    <DIR>          446774 Krewella - Say Goodbye
+03/04/2022  01:37 PM    <DIR>          4477 NightCore - Dum Dadi Do
+03/06/2022  11:25 PM    <DIR>          44844 Nakajima Megumi - Hello! (TV Size) [no video]
+10/17/2021  01:18 PM    <DIR>          45107 Floxytek vs Billx - 30's Swing Tek
+10/17/2021  01:20 PM    <DIR>          453230 CHiCO with HoneyWorks - Heart no Shuchou
+10/17/2021  01:25 PM    <DIR>          4546 Wada Kouji - FIRE!! (TV Size)
+10/17/2021  01:20 PM    <DIR>          454978 Feint - Horizons (feat Veela)
+10/17/2021  01:20 PM    <DIR>          456691 kors k - Insane Techniques (Extended)
+10/17/2021  01:20 PM    <DIR>          459149 Ayase Rie - Yuima-ruWorld TVver
+10/17/2021  01:20 PM    <DIR>          459149 Ayase Rie - Yuima-ru_World TVver [no video]
+10/17/2021  01:20 PM    <DIR>          460516 sakuzyo - Senkyou Ranbu
+03/04/2022  01:37 PM    <DIR>          46201 Fantasy Project - Dam Dadi Doo (Nightcore Mix)
+10/17/2021  01:18 PM    <DIR>          46342 RSP - The First Star
+10/17/2021  01:18 PM    <DIR>          46480 Fear, and Loathing in Las Vegas - Chase the Light! (TV Size)
+03/19/2022  11:21 PM    <DIR>          4651 Nico Nico Douga - BARUSA of MIKOSU [no video]
+10/17/2021  01:20 PM    <DIR>          465300 fhana - little secret magic
+10/17/2021  01:18 PM    <DIR>          46657 Lindsey Stirling - Crystallize
+10/17/2021  01:20 PM    <DIR>          466737 SCANDAL - Image
+10/17/2021  01:18 PM    <DIR>          46733 Caravan Palace - Dragons
+10/17/2021  01:20 PM    <DIR>          468418 Breaking Benjamin - The Diary of Jane
+10/17/2021  01:20 PM    <DIR>          468592 Thomas Bergersen - Final Frontier
+10/17/2021  01:20 PM    <DIR>          471562 T & Sugah x Lexurus - No More
+10/17/2021  01:20 PM    <DIR>          472946 Within Temptation - In The Middle Of The Night (Speed Up Ver)
+10/18/2021  07:28 PM    <DIR>          47312 Blackmill - Spirit of Life
+10/17/2021  01:18 PM    <DIR>          47388 MAK & SAK feat XANA - Em Poses A 100 (Nightcore Mix)
+10/17/2021  01:20 PM    <DIR>          474376 Sayuri - Sore wa Chiisana Hikari no Youna [no video]
+10/17/2021  01:20 PM    <DIR>          474696 Yoshino Nanjo - Kimi o Sagashi ni [no video]
+03/18/2022  12:20 PM    <DIR>          47710 HujuniseikouyuuP - Talent Shredder
+10/17/2021  01:20 PM    <DIR>          478387 Seven Lions - The Journey
+10/17/2021  01:20 PM    <DIR>          478405 Omoi - Snow Drive(0123) [no video]
+10/17/2021  01:20 PM    <DIR>          478558 Abe Nana(CV _ Miyake Marie) - Marchen Debut! [no video]
+10/17/2021  01:20 PM    <DIR>          481451 S3RL feat Krystal - R4V3 B0Y
+10/17/2021  01:20 PM    <DIR>          481927 fhana - calling [no video]
+10/17/2021  01:20 PM    <DIR>          482464 Alan Walker - Sing Me To Sleep
+10/17/2021  01:18 PM    <DIR>          48284 Pendulum - The Island (MaxNRG Remix)
+11/08/2021  10:31 PM    <DIR>          485903 DZIDZIO - Yalta
+03/19/2022  10:59 PM    <DIR>          487585 Dian Bo Feng - Duan Di Da Wang Nyanpasu [no video]
+10/17/2021  01:20 PM    <DIR>          487775 Au5 - Reiteration
+10/17/2021  01:20 PM    <DIR>          487907 Yuki Hayashi - You Say Run
+10/17/2021  01:20 PM    <DIR>          488630 fourfolium - Now Loading!!!!
+10/17/2021  01:18 PM    <DIR>          49052 goreshit - the nature of dying
+10/17/2021  01:18 PM    <DIR>          49071 sakuzyo feat Hatsune Miku - ChaiN De_structioN
+10/17/2021  01:20 PM    <DIR>          490956 Kanon Wakeshima - Tsukinami
+10/17/2021  01:20 PM    <DIR>          492762 zts - Emiya -faith _ denial-
+10/17/2021  01:20 PM    <DIR>          493133 CHiCO with HoneyWorks - Ai no Scenario
+10/17/2021  01:20 PM    <DIR>          493273 GRANRODEO - Can Do (TV Size)
+10/24/2021  11:12 PM    <DIR>          494460 Ayane - FaV -F___ and Vanguard-
+10/17/2021  01:20 PM    <DIR>          496176 mafumafu - Heart no Atoaji
+10/17/2021  01:20 PM    <DIR>          496549 Stonebank - Who's Got Your Love
+10/17/2021  01:20 PM    <DIR>          497942 mimimemeMIMI - Harebare Fanfare
+10/17/2021  01:20 PM    <DIR>          502928 MaxNRG - Hide Away My Heart
+10/17/2021  01:20 PM    <DIR>          504995 KOTOKO - Koi Kou Enishi
+03/19/2022  02:53 PM    <DIR>          50978 Rita - Dream Walker
+10/17/2021  01:20 PM    <DIR>          510958 Jeff Williams - Red Like Roses Part I & II (Edited Version)
+10/17/2021  01:20 PM    <DIR>          511635 Yuaru - Streaming Heart
+10/17/2021  01:20 PM    <DIR>          512648 Dollscythe - Flashes (Extended)
+10/17/2021  01:20 PM    <DIR>          513590 RADWIMPS - Zen Zen Zense (movie ver)
+10/17/2021  01:20 PM    <DIR>          514204 RADWIMPS - Nandemo Nai ya (movie ver)
+10/17/2021  01:20 PM    <DIR>          514788 Tristam & Braken - Frame of Mind
+10/17/2021  01:21 PM    <DIR>          514938 goreshit - there are no angels here
+10/17/2021  01:21 PM    <DIR>          514980 Kanpyohgo - Unmei no Dark Side -Rolling Gothic mix
+10/17/2021  01:21 PM    <DIR>          515939 RADWIMPS - Nandemo Nai ya
+10/17/2021  01:21 PM    <DIR>          516494 MISATO - Necro Fantasia
+10/17/2021  01:21 PM    <DIR>          517055 CloZee - Koto
+10/17/2021  01:21 PM    <DIR>          518278 The Prototypes - Slip Away
+10/17/2021  01:21 PM    <DIR>          519054 Thaehan - Doki-Doki
+10/17/2021  01:21 PM    <DIR>          524026 The Koxx - A FOOL MOON NIGHT
+10/17/2021  01:21 PM    <DIR>          528664 Rameses B - Beside You (feat Soundr)
+10/17/2021  01:21 PM    <DIR>          530445 Saiya - Remote Control
+10/17/2021  01:18 PM    <DIR>          53317 The Cab - Angel With A Shotgun (Nightcore Mix)
+10/17/2021  01:21 PM    <DIR>          533298 Maduk - Ghost Assassin VIP feat Veela
+10/17/2021  01:21 PM    <DIR>          533518 MitiS - Living Color (Dezpot Remix)
+10/17/2021  01:21 PM    <DIR>          533680 Falcom Sound Team jdk - Inevitable Struggle -demo version-
+10/17/2021  01:21 PM    <DIR>          534054 TRUE - Soundscape
+10/17/2021  01:21 PM    <DIR>          539135 WJSN (Cosmic Girls) - BeBe
+10/17/2021  01:18 PM    <DIR>          53923 Yousei Teikoku - Wahrheit
+10/17/2021  01:25 PM    <DIR>          5399 Rihanna - Disturbia
+10/17/2021  01:21 PM    <DIR>          540457 EPICA - Victims of Contingency
+10/17/2021  01:21 PM    <DIR>          541226 t+pazolite - Pump up UR NRG
+11/08/2021  09:12 PM    <DIR>          542081 Elmo and Cookie Monster - Cookie-Butter-Choco-Cookie
+10/17/2021  01:21 PM    <DIR>          543660 Diao ye zong feat Meramipop - The Anonymous
+10/17/2021  01:21 PM    <DIR>          544049 Krewella - Say Goodbye (Nightcore ver)
+10/17/2021  01:21 PM    <DIR>          545076 Alex Gaudino feat Crystal Waters - Destination Calabria
+10/17/2021  01:18 PM    <DIR>          54602 Hanatan - Kimi no Kiseki
+10/17/2021  01:21 PM    <DIR>          546820 YUC'e - Future Candy
+10/17/2021  01:21 PM    <DIR>          546878 Syoko Hoshi (CV_ Satsumi Matsuda) - Zettai Tokken Shuchou Shimasu! Hoshi Syoko Solo
+10/17/2021  01:21 PM    <DIR>          551444 Maduk - Liquicity Yearmix 2016
+10/17/2021  01:21 PM    <DIR>          552712 Marshmello - Alone
+10/17/2021  01:21 PM    <DIR>          553237 jioyi - Platinum
+10/17/2021  01:21 PM    <DIR>          554626 Ayaka Ohashi - Wagamama MIRROR HEART [no video]
+10/17/2021  01:21 PM    <DIR>          558694 xi - Glorious Crown
+10/17/2021  01:21 PM    <DIR>          559814 Set It Off - Kill The Lights
+10/17/2021  01:21 PM    <DIR>          568305 TK from Ling tosite sigure - haze
+10/17/2021  01:21 PM    <DIR>          570699 Sangatsu no Phantasia - Fairy Tale -TV Size-
+10/17/2021  01:21 PM    <DIR>          573894 3R2 - Bunny Panic!!!
+10/17/2021  01:18 PM    <DIR>          57542 Linkin Park - Leave Out All The Rest
+10/17/2021  01:21 PM    <DIR>          580214 Nhato - Delay Order
+10/17/2021  01:21 PM    <DIR>          580273 KikuoHana - Nobore! Susume! Takai Tou
+10/17/2021  01:21 PM    <DIR>          580821 Krewella - Say Goodbye (Speed Up Ver)
+10/17/2021  01:21 PM    <DIR>          586889 Eisyo-kobu - Oriental Blossom
+03/06/2022  11:25 PM    <DIR>          58745 ChouCho - Happy Fate (Short Ver)
+10/17/2021  01:21 PM    <DIR>          590646 Hiroyuki Sawano - Bauklotze
+10/17/2021  01:21 PM    <DIR>          593620 Linked Horizon - Shinzou o Sasageyo! [TV Size]
+10/17/2021  01:21 PM    <DIR>          594067 Kano - Sakura no Zenya
+10/17/2021  01:21 PM    <DIR>          595163 Yamajet feat Hiura Masako - Sunglow
+10/17/2021  01:21 PM    <DIR>          596486 succducc - me & U
+10/17/2021  01:21 PM    <DIR>          596704 ClariS - Hitorigoto -TV MIX- [no video]
+10/17/2021  01:18 PM    <DIR>          59795 Lindsey Stirling - Song of the Caged Bird
+10/17/2021  01:18 PM    <DIR>          59965 Lindsey Stirling - Elements
+10/17/2021  01:18 PM    <DIR>          60092 Nuage - Don't Hide These Feelings
+10/18/2021  07:28 PM    <DIR>          601120 Blackmill ft Cat Martin - Dont let me down
+10/17/2021  01:21 PM    <DIR>          601657 Two Steps From Hell - Star Sky
+11/28/2021  01:38 AM    <DIR>          6060 Armin Van Buuren feat Jan Vayne - Serenity
+11/15/2021  07:57 PM    <DIR>          608572 lapix - Amazing Mirage (Extended)
+10/17/2021  01:21 PM    <DIR>          609311 Roromiya Karuta(Hanazawa Kana) - sweets parade
+10/17/2021  01:21 PM    <DIR>          611956 Cartoon - Why We Lose (ft Coleman Trapp)
+10/17/2021  01:21 PM    <DIR>          615870 YUC'e - PUMP
+10/17/2021  01:21 PM    <DIR>          616023 Feint - Take It In (feat Koven)
+10/17/2021  01:21 PM    <DIR>          616696 Lite Show Magic - TRICKL4SH 220
+10/17/2021  01:21 PM    <DIR>          622500 Shikata Akiko - Katayoku no Tori
+01/12/2022  04:35 PM    <DIR>          623927 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+11/08/2021  10:32 PM    <DIR>          627629 55x55 - MUZYKA NE MUZYKANTA (feat Snailkick)
+10/24/2021  09:42 PM    <DIR>          628657 KOAN Sound & Asa - Starlite
+10/17/2021  01:21 PM    <DIR>          636839 KASAI HARCORES - Cycle Hit
+03/20/2022  12:02 AM    <DIR>          637085 A-F-R-O - Definition of a Rap Flow
+10/17/2021  01:21 PM    <DIR>          638341 After the Rain - Anti-Clockwise (TV Size)
+10/17/2021  01:21 PM    <DIR>          646724 Paolo Ligorio - The Colors Of My Life (Nightcore Mix)
+10/17/2021  01:21 PM    <DIR>          646762 Kurokotei - Valkyrie Attack
+10/17/2021  01:21 PM    <DIR>          648513 Within Temptation - In The Middle Of The Night (Nightcore)
+10/17/2021  01:25 PM    <DIR>          6493 The Immortals - Techno Syndrome
+10/17/2021  01:21 PM    <DIR>          652886 Wisp X - Wander
+10/17/2021  01:21 PM    <DIR>          652909 Feint & Boyinaband - Time Bomb (feat Veela)
+10/17/2021  01:21 PM    <DIR>          660298 Balduin & Wolfgang Lohr (feat Alanna) - Dizzy
+11/15/2021  07:58 PM    <DIR>          667020 Void_Chords featMARU - The Other Side of the Wall (TV Size)
+10/17/2021  01:21 PM    <DIR>          667868 MAZARE - Mazare Party
+10/17/2021  01:21 PM    <DIR>          669536 Linkin Park - Session
+03/11/2022  10:39 PM    <DIR>          669776 Ito Kashitaro x Lon - Soushi Sou Ai [no video]
+10/17/2021  01:21 PM    <DIR>          669826 League of Legends - Legends Never Die (ft Against The Current)
+10/17/2021  01:21 PM    <DIR>          671140 papiyon feat Hatsune Miku - White Prism
+10/17/2021  01:21 PM    <DIR>          672421 Camellia - ATTACK FROM MANDRAKE
+10/17/2021  01:18 PM    <DIR>          67277 xi - FREEDOM DiVE
+10/17/2021  01:21 PM    <DIR>          676344 MitiS - untitled guitar
+10/17/2021  01:21 PM    <DIR>          679272 gmtn vs kozato (fw LUZE) - squartatrice
+03/19/2022  11:14 PM    <DIR>          67937 Cartoons - Witch Doctor
+10/17/2021  01:21 PM    <DIR>          682290 Hige Driver - Miracle Sugite Yabai (feat shully)
+10/17/2021  01:21 PM    <DIR>          682621 EGOIST - Eiyuu Unmei no Uta
+10/17/2021  01:18 PM    <DIR>          68893 Yiruma & Skullee - River Flows In You (A Love Note)
+10/17/2021  01:21 PM    <DIR>          691328 Feint - Laurence (VIP) (Cut Ver)
+10/17/2021  01:21 PM    <DIR>          692999 Krewella - Live for the Night
+10/17/2021  01:21 PM    <DIR>          693432 Ella Eyre - Good Times
+03/18/2022  12:43 PM    <DIR>          694047 ROTTENGRAFFTY - 70cm Shihou no Madobe
+10/17/2021  01:21 PM    <DIR>          694464 GLORYHAMMER - Rise Of The Chaos Wizards
+10/17/2021  01:21 PM    <DIR>          697327 Au5 & Fractal - Blue
+10/17/2021  01:21 PM    <DIR>          701330 I SEE MONSTAS - Holdin On (Skrillex and Nero Remix)
+10/17/2021  01:21 PM    <DIR>          702272 Pendulum - Hold Your Colour
+10/17/2021  01:18 PM    <DIR>          70528 ginkiha - EOS
+11/08/2021  09:20 PM    <DIR>          705423 Unknown Artist - Miniministop Hitoyasumi no Uta[Mokuyoubi]Gakusei no Uta
+10/17/2021  01:21 PM    <DIR>          705788 Culprate & Au5 - Impulse
+10/17/2021  01:21 PM    <DIR>          706285 Alan Walker - All Falls Down (feat Noah Cyrus with Digital Farm Animals)
+10/17/2021  01:21 PM    <DIR>          706771 aran & lapix - KALACAKLA
+10/17/2021  01:21 PM    <DIR>          707032 yaseta - Bluenation
+10/17/2021  01:21 PM    <DIR>          707380 ClariS - SHIORI vs Hitorigoto
+03/19/2022  11:26 PM    <DIR>          710630 IOSYS - Marisa wa Taihen na Mono wo Nusunde Ikimashita
+10/17/2021  01:21 PM    <DIR>          711926 Rezonate - The Phoenix
+10/17/2021  01:21 PM    <DIR>          713161 Illenium ft Echos - Afterlife (Dabin Remix)
+10/17/2021  01:21 PM    <DIR>          713506 Chaos City Niigata - Ukiyoe Yokochou
+10/17/2021  01:21 PM    <DIR>          713740 kana - Hammer o Denpa Song ni Shitemita
+10/17/2021  01:21 PM    <DIR>          714552 Nekomata LEDMaster+ - Chrono Diver -PENDULUMs- [no video]
+10/17/2021  01:21 PM    <DIR>          715088 Rameses B - You Are Everything
+10/17/2021  01:21 PM    <DIR>          716079 lapix - Nexta
+10/17/2021  01:21 PM    <DIR>          716487 Diversity (Ben Moon) - Majesty (ftVeela)
+03/11/2022  10:32 PM    <DIR>          720882 nowisee - confusion
+10/17/2021  01:21 PM    <DIR>          724784 Daughter - Medicine (Sound Remedy Remix)
+10/17/2021  01:21 PM    <DIR>          724846 Kuba Oms - All In All
+10/17/2021  01:21 PM    <DIR>          725387 Aether & Sizzlebird - Raccoon City (ft Veela)
+10/17/2021  01:25 PM    <DIR>          7271 Linkin Park - New Divide
+10/17/2021  01:21 PM    <DIR>          729705 Rin - Mythic set _ Heart-Stirring Urban Legends
+10/17/2021  01:21 PM    <DIR>          730207 yuigot - Crazy Sprinkle Friends feat YUC'e (Yunomi Remix)
+10/17/2021  01:21 PM    <DIR>          731109 MitiS - Moments (feat Adara)
+10/17/2021  01:21 PM    <DIR>          731899 Gohma - Forward
+10/17/2021  01:21 PM    <DIR>          732280 aran - VOLT (USAO Remix)
+10/17/2021  01:21 PM    <DIR>          734770 Wada Kouji - FIRE!! _TV Size_
+10/17/2021  01:21 PM    <DIR>          735153 Dani Rosenoer X Arc North - Onward (ptII)
+10/17/2021  01:21 PM    <DIR>          737714 Helblinde - Putin's Boner
+03/20/2022  12:21 AM    <DIR>          7385 IOSYS - Utage wa Eien ni _SHD_ [no video]
+10/17/2021  01:21 PM    <DIR>          739262 MAX COVERI - RUNNING IN THE 90'S
+10/17/2021  01:21 PM    <DIR>          746498 Shimotsuki Haruka - Youka to Yumeutsutsu
+10/17/2021  01:21 PM    <DIR>          746506 Fujijo Seitokai Shikkou-bu - Best FriendS (GoldenWolf Edit)
+10/17/2021  01:21 PM    <DIR>          749003 Metrik - Freefall VIP (feat Reija Lee)
+10/31/2021  03:24 PM    <DIR>          749096 Uinyasu, Occhoko Bunny - Aa Kenran no Yume ga Gotoku (Epsilon Remix)
+10/17/2021  01:21 PM    <DIR>          750147 Pegboard Nerds - Just Dance (feat Tia Simone)
+10/17/2021  01:22 PM    <DIR>          751779 Rin - Daishibyo set 14 ~ Sado no Futatsuiwa
+10/17/2021  01:22 PM    <DIR>          751785 Cranky - Chandelier - King
+10/17/2021  09:03 AM    <DIR>          751866 Rin - Moriya set 08 ReEdit ~ Youkai no Yama
+10/17/2021  01:22 PM    <DIR>          751896 Cranky - Rave 2 Rave
+10/17/2021  01:22 PM    <DIR>          751972 Cranky - CHASER
+10/17/2021  01:22 PM    <DIR>          754219 TheFatRat ft Laura Brehm - MAYDAY (Nightcore Mix)
+11/21/2021  04:12 PM    <DIR>          754451 THE ORAL CIGARETTES - ReI
+10/17/2021  01:22 PM    <DIR>          756794 TheFatRat - Mayday (feat Laura Brehm)
+10/17/2021  01:22 PM    <DIR>          761593 DragonForce _ R3 Music Box - Ashes of the Dawn
+10/17/2021  01:22 PM    <DIR>          764649 POWERWOLF - Army Of The Night
+11/08/2021  09:50 PM    <DIR>          765169 Komiya Mao - (can you) understand me
+10/17/2021  01:22 PM    <DIR>          765357 PSYQUI feat Such - Your voice so
+11/28/2021  01:38 AM    <DIR>          765801 Armin van Buuren vs Vini Vici feat Hilight Tribe - Great Spirit (Extended Mix)
+10/17/2021  01:18 PM    <DIR>          76623 Meiko - Leave The Lights On (KROT Remix)
+03/06/2022  11:25 PM    <DIR>          76649 Sim Gretina - Crystal Fair (Remix)
+10/17/2021  09:03 AM    <DIR>          767346 Thaehan - Bwa !
+10/17/2021  01:22 PM    <DIR>          767797 Feint - The Journey (feat Veela)
+10/17/2021  01:22 PM    <DIR>          767988 MitiS - Living Color (Original Mix)
+10/17/2021  01:22 PM    <DIR>          770668 Feint - The Journey (feat Veela)
+10/17/2021  01:22 PM    <DIR>          771463 Alan Walker - Sing Me To Sleep
+10/17/2021  01:18 PM    <DIR>          77505 Linkin Park - Numb
+10/17/2021  01:22 PM    <DIR>          775765 Matrix & Futurebound ft Luke Bingham - All I Know
+10/17/2021  01:22 PM    <DIR>          778719 Team Grimoire vs Laur - Grievous Lady [no video]
+10/17/2021  01:22 PM    <DIR>          780651 Hanasaka Yui (CV_ MAO) feat Koalazy - Harumachi Clover (TV Size)
+10/17/2021  01:18 PM    <DIR>          78400 Jeff Williams - Red Like Roses (feat Casey Lee Williams)
+10/17/2021  01:22 PM    <DIR>          785544 THE ORAL CIGARETTES - Amy
+10/17/2021  09:03 AM    <DIR>          785572 S3RL - I'll See You Again (feat Chi Chi)
+10/17/2021  01:22 PM    <DIR>          786141 DragonForce - Ashes of the Dawn
+10/17/2021  01:22 PM    <DIR>          787129 Goblins from Mars - Enough
+10/17/2021  01:22 PM    <DIR>          787421 SawanoHiroyuki[nZk]_Tielle - Amazing Trees -extended ver-
+10/17/2021  01:22 PM    <DIR>          788087 Alessia Cara - How Far I'll Go
+10/17/2021  01:22 PM    <DIR>          788201 VINXIS - Greetings
+10/17/2021  01:22 PM    <DIR>          790382 Au5 - Moonland
+10/17/2021  01:22 PM    <DIR>          790979 Kurahashi Yoeko - Tomodachi no Uta
+10/17/2021  01:22 PM    <DIR>          791658 Seven Lions & Echos - Cold Skin
+10/17/2021  01:22 PM    <DIR>          792396 cYsmix - The Ballad of a Mindless Girl
+10/17/2021  01:22 PM    <DIR>          793027 Chinese Man - I Got That Tune (Tha Trickaz Remix)
+10/17/2021  01:22 PM    <DIR>          794697 Teikyo - DASH BUTTON
+10/17/2021  01:22 PM    <DIR>          795409 Feint - Lift
+01/12/2022  04:35 PM    <DIR>          797401 Dollscythe - Flashes
+10/17/2021  01:22 PM    <DIR>          798261 TheFatRat - MAYDAY (feat Laura Brehm)
+10/18/2021  07:28 PM    <DIR>          799410 Blackmill - The Drift
+10/17/2021  01:22 PM    <DIR>          800526 VINXIS - Greetings
+10/17/2021  01:18 PM    <DIR>          80214 Wotamin - Gigantic OTN
+10/17/2021  01:22 PM    <DIR>          808175 DECO_27 - First Storm -Japanese Version-
+10/17/2021  01:22 PM    <DIR>          808334 Lindsey Stirling - Master of Tides
+10/17/2021  01:18 PM    <DIR>          81059 Tada Aoi - Brave Song
+10/17/2021  01:22 PM    <DIR>          812921 THE ORAL CIGARETTES - 5150
+10/17/2021  01:22 PM    <DIR>          813569 Laur - Sound Chimera
+11/05/2021  06:25 PM    <DIR>          815468 SawanoHiroyuki[nZk]_mizuki - oI
+11/26/2021  03:31 PM    <DIR>          817429 Sia - Chandelier
+10/17/2021  01:22 PM    <DIR>          817667 Luschka - Kami no Kotoba
+10/17/2021  01:22 PM    <DIR>          818349 Tanizawa Tomofumi - Sawakaze (TV Size)
+10/17/2021  01:22 PM    <DIR>          821798 Seiryu - AO-Infinity
+10/17/2021  01:22 PM    <DIR>          825267 Babalos - Snow Crystal 185
+10/17/2021  01:18 PM    <DIR>          82635 Feint - Times Like These (Fracture Design Remix)
+10/17/2021  01:22 PM    <DIR>          830537 PSYQUI - Hype feat Such (lapix Remix)
+10/17/2021  01:22 PM    <DIR>          830666 USAO - USAO ULTIMATE HYPER MEGA MIX
+10/17/2021  01:22 PM    <DIR>          831322 DJ'TEKINA__SOMETHING - Hidamari no Uta
+10/17/2021  01:18 PM    <DIR>          83494 BoB feat Hayley Williams - Airplanes (Feint Remix)
+10/17/2021  01:22 PM    <DIR>          835509 LOONA - Hi High
+10/17/2021  01:22 PM    <DIR>          837929 BTS - IDOL
+10/17/2021  01:18 PM    <DIR>          84104 Linkin Park - What I've Done
+10/17/2021  01:18 PM    <DIR>          84457 Club Crusherz! - Take Me Away (Nightcore Mix)
+10/17/2021  01:22 PM    <DIR>          844644 Olly Murs - That Girl
+10/17/2021  01:22 PM    <DIR>          847323 Nakanojojo - Bittersweet (feat Kuishinboakachan aka Kiato)
+10/17/2021  01:22 PM    <DIR>          847415 Powerless feat kakichoco - hypnoSpirA
+10/17/2021  01:22 PM    <DIR>          847900 Cranky - Time Alter
+10/17/2021  01:22 PM    <DIR>          849369 M2U - A Bella! (feat Lucy)
+10/17/2021  01:25 PM    <DIR>          8506 Linkin Park - Numb
+01/20/2022  01:16 PM    <DIR>          852683 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+10/17/2021  01:22 PM    <DIR>          853600 THE ORAL CIGARETTES - GET BACK
+10/17/2021  01:22 PM    <DIR>          854728 Maroon 5 - Shoot Love
+10/17/2021  01:22 PM    <DIR>          856627 TK from Ling tosite sigure - unravel (TV Size)
+10/17/2021  01:22 PM    <DIR>          857068 After the Rain - Anti-Clockwise
+10/17/2021  01:22 PM    <DIR>          858075 Reol - Saisaki
+03/19/2022  11:32 PM    <DIR>          858417 Sheet Music Boss - Just Press F
+10/17/2021  01:22 PM    <DIR>          858981 RAF Camora - Gotham City
+10/17/2021  01:22 PM    <DIR>          859047 Owl City - Fireflies (Said The Sky Remix)
+10/17/2021  01:22 PM    <DIR>          859370 namirin - The Noise of Rain
+10/17/2021  01:22 PM    <DIR>          859515 K A Z M A S A - Bon Appetit S (Oldskool HappyHardcore Remix) (Short Ver)
+10/17/2021  01:22 PM    <DIR>          859575 Ayase Rie - Hijitsuzaikei Joshitachi wa Dou Surya Ii Desu ka
+10/17/2021  01:22 PM    <DIR>          864618 Hombres G - Devuelveme A Mi Chica
+10/17/2021  01:22 PM    <DIR>          864679 Feryquitous - Central Nucleus (Cut Ver)
+10/17/2021  01:22 PM    <DIR>          866436 DJKurara - Goodbye
+10/17/2021  01:22 PM    <DIR>          873639 K_DA - POP_STARS (feat Madison Beer, (G)I-DLE, Jaira Burns)
+10/17/2021  01:22 PM    <DIR>          873667 OISHII - ONIGIRI FREEWAY
+10/17/2021  01:22 PM    <DIR>          874948 K_DA - POP_STARS (ft Madison Beer, (G)I-DLE, Jaira Burns)
+10/17/2021  01:22 PM    <DIR>          875080 K_DA - POP_STARS (feat Madison Beer, (G)I-DLE, Jaira Burns)
+10/17/2021  01:18 PM    <DIR>          87630 Linked Horizon - Guren no Yumiya (TV Size)
+10/17/2021  01:22 PM    <DIR>          881384 Pendulum - The Island (MaxNRG official remix)
+10/17/2021  01:22 PM    <DIR>          882839 MISATO - Necro Fantasia
+10/17/2021  01:22 PM    <DIR>          883088 Wisp X - Somewhere I'd Rather Be
+10/17/2021  01:22 PM    <DIR>          886563 jacoo - Towards the light
+10/17/2021  01:22 PM    <DIR>          889058 THE ORAL CIGARETTES - ReI
+10/17/2021  01:22 PM    <DIR>          889855 GALNERYUS - RAISE MY SWORD
+10/17/2021  09:03 AM    <DIR>          891345 HyuN - Infinity Heaven
+10/17/2021  01:18 PM    <DIR>          89139 xi - Blue Zenith
+10/17/2021  01:22 PM    <DIR>          891441 HyuN - You'Re aRleAdY dEAd
+10/17/2021  09:03 AM    <DIR>          891712 HyuN - Tokyo's Starlight
+10/17/2021  01:22 PM    <DIR>          892195 Au5 (feat Tasha Baxter) - Snowblind (Nightcore)
+11/03/2021  09:12 PM    <DIR>          894883 Aiurabu - Kani_Do-Luck! (TV Size) [no video]
+10/17/2021  01:22 PM    <DIR>          896080 Wakeshima Kanon - Tsukinami
+10/17/2021  01:18 PM    <DIR>          89799 ParagonX9 - Chaoz Fantasy
+10/17/2021  01:25 PM    <DIR>          8989 Madonna ft Justin Timberlake and Timbaland - 4 Minutes
+10/17/2021  01:18 PM    <DIR>          89912 Stan SB - Let This Go
+10/17/2021  01:22 PM    <DIR>          905119 YUC'e - Chemical Cookie
+10/17/2021  01:22 PM    <DIR>          908006 Camellia - Beyond the Geostationary Orbit Level
+10/17/2021  01:22 PM    <DIR>          909759 ASCA - RESISTER (TV Size) [no video]
+10/17/2021  01:22 PM    <DIR>          916609 Alan Walker - Alan Walker - Ignite
+10/18/2021  07:28 PM    <DIR>          923460 Blackmill feat Cat Martin - Don't Let Me Down
+10/17/2021  01:22 PM    <DIR>          924000 Kawada Mami - No buts! (TV Size) [no video]
+10/17/2021  01:22 PM    <DIR>          925222 Kirby super star Ultra - El sonidito
+10/17/2021  01:22 PM    <DIR>          931741 Camellia - Quaoar
+10/17/2021  01:22 PM    <DIR>          932530 Kairiki bear feat GUMI, Kagamine Rin - Inai Inai Isonshou
+10/17/2021  01:22 PM    <DIR>          933863 SPYAIR - Sakura Mitsutsuki (TV Size)
+10/24/2021  11:07 PM    <DIR>          934179 Shiina Ringo - Jinsei wa Yume Darake
+10/17/2021  09:03 AM    <DIR>          934415 Ben Briggs - Fearless Living
+10/17/2021  01:22 PM    <DIR>          934878 GALNERYUS - RAISE MY SWORD
+10/17/2021  09:03 AM    <DIR>          935699 Rin - Mythic set ~ Heart-Stirring Urban Legends
+10/17/2021  01:22 PM    <DIR>          935984 Wisp X - Forever
+10/17/2021  01:22 PM    <DIR>          938426 Camellia - Newspapers for Magicians
+10/17/2021  01:22 PM    <DIR>          941085 tieff - Our Story
+10/17/2021  01:22 PM    <DIR>          943108 Maduk - Liquicity Yearmix 2017
+10/17/2021  01:22 PM    <DIR>          943947 Hanazono Tae (CV_ Otsuka Sae) - Hanazono Denki Guitar!!!
+10/17/2021  01:22 PM    <DIR>          944514 Foreground Eclipse - Truths, Ironies, The Secret Lyrics
+10/17/2021  01:22 PM    <DIR>          947022 Infected Mushroom - Guitarmass (Cut Ver)
+10/17/2021  01:22 PM    <DIR>          947770 HyuN - Grin
+10/17/2021  01:22 PM    <DIR>          949231 Maduk - Liquicity Yearmix 2018
+10/17/2021  09:03 AM    <DIR>          949297 tieff - Sunflower
+10/17/2021  09:03 AM    <DIR>          951618 Rin - Kishinjou set 02 ~ Mermaid from the Uncharted Land
+11/03/2021  08:32 PM    <DIR>          952409 MIMI feat Hatsune Miku - Ai no Sukima
+10/17/2021  01:22 PM    <DIR>          953303 Our Stolen Theory - United (LAOS Remix)
+10/17/2021  01:22 PM    <DIR>          953367 Maduk feat Veela - Ghost Assassin (Hourglass Bonusmix)
+03/20/2022  12:14 AM    <DIR>          956140 PinocchioP - sukisukisukisukisukisukisukisukisukisuki
+10/17/2021  01:22 PM    <DIR>          956634 Fox Stevenson - All This Time
+10/17/2021  01:22 PM    <DIR>          957835 Matrix & Futurebound - Fire (feat Max Marshall)
+10/17/2021  01:22 PM    <DIR>          959439 Infected Mushroom - Where Do I Belong
+10/17/2021  01:22 PM    <DIR>          959999 Au5 - Eden (feat Danyka Nadeau)
+10/17/2021  01:22 PM    <DIR>          961320 Kuba Oms - All In All
+11/03/2021  09:06 PM    <DIR>          962088 MIMI feat Hatsune Miku - Marshmary
+10/17/2021  01:22 PM    <DIR>          962562 Imperial Circus Dead Decadence - Uta
+10/17/2021  01:22 PM    <DIR>          962863 AliA - impulse
+01/20/2022  03:30 PM    <DIR>          963288 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+10/17/2021  01:22 PM    <DIR>          963628 Black Sun Empire, State of Mind & PNC - Until The World Ends
+10/17/2021  01:25 PM    <DIR>          9651 Nightcore - Lucky Star II
+10/17/2021  09:03 AM    <DIR>          965651 Fractal Dreamers - Ad Astra
+10/17/2021  09:03 AM    <DIR>          966324 DJ'TEKINA__SOMETHING - Hidamari no Uta
+11/08/2021  10:22 PM    <DIR>          966339 umu - Ai no Sukima
+03/18/2022  12:36 PM    <DIR>          967719 Enter Shikari - Radiate
+11/03/2021  09:12 PM    <DIR>          968171 MIMI feat Hatsune Miku - Mizuoto to Curtain
+10/17/2021  01:22 PM    <DIR>          968232 Rin - Lunatic set 15 ~ The Moon as Seen from the Shrine
+10/17/2021  01:22 PM    <DIR>          970646 Wisp X - Wander
+10/17/2021  09:03 AM    <DIR>          971561 antiPLUR - Runengon
+10/17/2021  01:22 PM    <DIR>          972298 ZUTOMAYO - Humanoid
+10/17/2021  09:03 AM    <DIR>          972887 HyuN - Illusion of Inflict
+10/17/2021  01:22 PM    <DIR>          975615 Matrix & Futurebound - Fire (feat Max Marshall)
+10/17/2021  01:22 PM    <DIR>          977787 Geri Halliwell - It's Raining Men
+10/18/2021  07:21 PM    <DIR>          977939 Gemie - YouSeeBIGGIRL_T_T
+10/17/2021  09:03 AM    <DIR>          978759 L V Beethoven - Moonlight Sonata (Cranky Remix)
+10/17/2021  01:23 PM    <DIR>          978879 ONE OK ROCK - American Girls (Speed Up Ver)
+10/17/2021  01:23 PM    <DIR>          983285 Au5 - Divinorum (feat Nori)
+01/12/2022  04:35 PM    <DIR>          983900 Camellia - Light It Up
+11/03/2021  08:24 PM    <DIR>          983911 S3RL - Bass Slut (Original Mix)
+10/17/2021  01:23 PM    <DIR>          984451 Taylor Swift - Delicate
+10/17/2021  01:23 PM    <DIR>          985335 Two Steps From Hell - El Dorado
+10/31/2021  03:09 PM    <DIR>          985841 KISIDA KYODAN & THE AKEBOSI ROCKETS - Sirius (TV Size) [no video]
+10/17/2021  01:23 PM    <DIR>          986813 Station Earth - Cold Green Eyes feat Roos Denayer
+10/17/2021  01:25 PM    <DIR>          9873 Rihanna ft Jay-Z - Umbrella
+10/17/2021  01:18 PM    <DIR>          98842 Feint - Time Bomb (feat Veela & Boyinaband)
+10/17/2021  01:23 PM    <DIR>          989425 SPYAIR - I'M A BELIEVER (TV Size)
+10/17/2021  01:23 PM    <DIR>          990079 Oomori Seiko - JUSTadICE (TV Size) [no video]
+03/11/2022  10:43 PM    <DIR>          991300 Fleshgod Apocalypse - The Deceit
+10/17/2021  01:23 PM    <DIR>          991780 BlackY - Sthenno
+10/24/2021  10:59 PM    <DIR>          992595 Kano - Sakura no Zenya
+10/17/2021  01:18 PM    <DIR>          99274 One Direction - One Way or Another (Teenage Kicks)
+10/17/2021  01:23 PM    <DIR>          992847 RIOT - Overkill
+10/17/2021  01:23 PM    <DIR>          993306 ryu5150 - Louder than steel
+10/17/2021  09:03 AM    <DIR>          994104 James Landino - Reaction feat Slyleaf
+10/17/2021  01:23 PM    <DIR>          994598 Fujikawa Chiai - Atashi ga Tonari ni Iru Uchi ni
+10/17/2021  01:18 PM    <DIR>          99566 Lindsey Stirling - Electric Daisy Violin
+10/17/2021  01:23 PM    <DIR>          997556 Feint - Laurence
+11/20/2021  04:37 PM    <DIR>          998304 Nanawo Akari feat Eve - Instant Heaven [no video]
+10/17/2021  01:25 PM    <DIR>          Failed
+               0 File(s)              0 bytes
+             994 Dir(s)  1,620,136,669,184 bytes free

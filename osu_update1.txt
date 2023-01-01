@@ -1,0 +1,637 @@
+ Volume in drive C is OS
+ Volume Serial Number is E475-085D
+
+ Directory of C:\Users\tanno\AppData\Local\osu!\Songs
+
+12/23/2022  06:22 PM    <DIR>          .
+12/23/2022  06:22 PM    <DIR>          ..
+06/17/2022  10:27 AM    <DIR>          1001653 MIMI feat Hatsune Miku - Mizuoto to Curtain
+06/26/2022  12:55 PM    <DIR>          1002336 KISIDA KYODAN & THE AKEBOSI ROCKETS - Yume wa Jikuu o Koete
+04/24/2022  11:23 PM    <DIR>          100628 MitiS - Open Window (feat Anna Yvette)
+06/17/2022  10:28 AM    <DIR>          1006793 THE ORAL CIGARETTES - Kantan na Koto
+04/23/2022  09:37 PM    <DIR>          1009907 James Landino & Kabuki - Birdsong
+04/23/2022  09:33 PM    <DIR>          1011011 nekodex - new beginnings
+06/17/2022  10:03 AM    <DIR>          1012262 THE ORAL CIGARETTES - GET BACK
+04/23/2022  09:33 PM    <DIR>          1014936 Thaehan - Bwa !
+08/19/2022  03:43 PM    <DIR>          1014945 ayaponzu_ - Haikei Doppelganger
+12/19/2022  06:40 PM    <DIR>          1022717 DJ Sharpnel - Back to the gate
+06/30/2022  01:14 PM    <DIR>          1022990 KikuoHana - Nobore! Susume! Takai Tou
+06/15/2022  08:25 PM    <DIR>          1023491 DJ YOSHITAKA - Evans
+04/24/2022  02:54 PM    <DIR>          1023848 Au5 - Shock Diamond feat Cristina Soto
+04/26/2022  01:47 PM    <DIR>          1024635 Maduk - Got Me Thinking (feat Veela)
+06/15/2022  08:56 PM    <DIR>          1031202 Gram (DJ Genki) - Nibelungen
+04/26/2022  01:48 PM    <DIR>          1031435 VINXIS - Sidetracked Day
+05/13/2022  04:55 PM    <DIR>          1034008 DIVELA feat Hatsune Miku - Beat Syncer
+07/22/2022  11:18 AM    <DIR>          1037744 Hana - Sakura no Uta
+05/02/2022  01:53 AM    <DIR>          103862 Groove Coverage - Runaway (Nightcore Mix)
+06/15/2022  08:56 PM    <DIR>          1040056 Gram (DJ Genki) - Nibelungen
+04/26/2022  01:47 PM    <DIR>          104169 STYLE FIVE - SPLASH FREE (TV Size) [no video]
+04/26/2022  01:48 PM    <DIR>          1044785 Powerwolf - Army Of The Night
+05/14/2022  12:05 PM    <DIR>          1049043 Crywolf - Eyes Half Closed
+05/14/2022  12:01 PM    <DIR>          1051745 UNISON SQUARE GARDEN - Phantom Joke (TV Size) [no video]
+06/27/2022  10:41 AM    <DIR>          10550 Owl City - Fireflies
+04/26/2022  01:47 PM    <DIR>          1056976 SawanoHiroyuki[nZk]_Tielle - Amazing Trees
+04/25/2022  08:05 PM    <DIR>          1057350 Feint - Words (feat Laura Brehm)
+06/27/2022  10:44 AM    <DIR>          10580 Linkin Park - What I've Done
+06/15/2022  09:06 PM    <DIR>          1060325 Camellia - Exit This Earth's Atomosphere
+10/04/2022  07:46 PM    <DIR>          1061287 Turbo - PADORU _ PADORU
+04/27/2022  01:12 AM    <DIR>          1061694 Paul K Joyce feat Neil Morrissey - Can We Fix It (TV Size) [no video]
+04/26/2022  01:48 PM    <DIR>          1079318 Mediks - Don't Let Go
+09/16/2022  12:59 PM    <DIR>          1082106 EBIMAYO - Bad Cycle
+06/18/2022  09:14 PM    <DIR>          108296 Oratorio The World God Only Knows - God only knows -Secrets of the Goddess-
+06/26/2022  10:48 AM    <DIR>          1087898 Fox Stevenson - Dreamland
+09/19/2022  07:51 PM    <DIR>          108820 REDALiCE - Kizuato
+05/26/2022  07:34 PM    <DIR>          1095606 chelmico - Easy Breezy (TV Size) [no video]
+08/19/2022  02:44 PM    <DIR>          1100001 ZUTOMAYO - Minority Myakuraku
+06/17/2022  10:28 AM    <DIR>          1101976 Station Earth - Cold Green Eyes feat Roos Denayer
+06/17/2022  10:28 AM    <DIR>          1104312 Station Earth - Cold Green Eyes feat Roos Denayer
+06/17/2022  10:28 AM    <DIR>          1106133 Station Earth - Starcaller
+06/26/2022  01:10 PM    <DIR>          1108263 GYZE - HONESTY
+06/27/2022  10:44 AM    <DIR>          110969 Linkin Park - Leave Out All The Rest
+04/27/2022  01:03 AM    <DIR>          1114339 Herve Lavandier - Shuriken School (TV Size)
+05/11/2022  10:04 PM    <DIR>          1115477 Colors_Slash - Colors Power ni Omakasero!
+10/09/2022  03:20 PM    <DIR>          1118112 CHiCO with HoneyWorks - Kessen Spirit
+05/05/2022  12:33 AM    <DIR>          111914 Rchetype - V Is For
+04/24/2022  02:55 PM    <DIR>          1122381 Singularity - Alone (Au5 & Fractal Remix)
+06/26/2022  12:54 PM    <DIR>          1130365 Sakakibara Yui - Kanpeki na Sekai
+04/24/2022  02:54 PM    <DIR>          1130730 Au5 feat Trove - The Journey
+06/26/2022  01:31 PM    <DIR>          1133480 O2i3 - Heart Function
+04/24/2022  02:54 PM    <DIR>          1135050 Au5 & Fractal - Halcyon
+06/19/2022  08:26 PM    <DIR>          114220 Halozy - KOKORO
+05/13/2022  04:56 PM    <DIR>          1144757 Shirakami Fubuki - Asa ga Kite (T-POCKET Remix)
+06/27/2022  10:41 AM    <DIR>          1145258 Teminite with Starr Chen - Fireflies
+06/15/2022  09:12 PM    <DIR>          115107 SirensCeol - Nightmare (Maxin Remix)
+04/26/2022  01:47 PM    <DIR>          1151815 ak+q - Shades of Light in a Transcendent Realm
+09/19/2022  07:51 PM    <DIR>          115291 Fox Stevenson - Turn It Up (Higher)
+04/26/2022  01:48 PM    <DIR>          1155295 TrySail - Utsuroi (Short Ver)
+05/02/2022  01:45 AM    <DIR>          11558 Nightcore - Ravers Fantasy
+04/24/2022  11:23 PM    <DIR>          116068 Clinton VanSciver & Swedish Egil - Love Letters (MitiS Chilled Overnight Remix)
+08/14/2022  10:33 AM    <DIR>          1165437 Utsu-P feat flower - Living ghost is alive
+06/17/2022  10:28 AM    <DIR>          1165549 Camellia - Light it up
+04/25/2022  08:57 PM    <DIR>          1174505 The Cab - Angel With A Shotgun (Sped Up Ver)
+04/26/2022  01:48 PM    <DIR>          1185464 KASAI HARCORES - Cycle Hit
+04/24/2022  02:55 PM    <DIR>          1186559 Au5 - Blossom
+08/03/2022  06:37 PM    <DIR>          1187781 Virtual Riot - Paper Planes (Cut Ver)
+04/23/2022  11:30 PM    <DIR>          1190977 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+05/02/2022  01:38 AM    <DIR>          11951 Nightcore - Hymn
+04/24/2022  02:54 PM    <DIR>          1196347 Au5 - Singularity
+06/19/2022  08:23 PM    <DIR>          1198125 MY FIRST STORY - Fukagyaku Replace
+05/26/2022  07:31 PM    <DIR>          1212452 Camellia - FLYING OUT TO THE SKY (covered by Nanahira, moimoi, Nana Takahashi)
+04/24/2022  11:40 AM    <DIR>          1214145 Rameses B - Children
+08/19/2022  03:36 PM    <DIR>          1215692 DJ Mars - Lemon Tree (Lemon Dance Radio Edit)
+06/19/2022  08:23 PM    <DIR>          1217211 Giorno & Critical Strikez - Darkness (Nightcore Mix)
+05/02/2022  01:45 AM    <DIR>          12191 Nightcore - Jump Jump
+04/24/2022  02:54 PM    <DIR>          1219928 Au5 & Tasha Baxter - Stargate
+04/25/2022  08:05 PM    <DIR>          1224094 Feint - Snake Eyes (feat CoMa)
+05/21/2022  01:43 PM    <DIR>          1227698 Camellia - I Can Fly In The Universe
+06/18/2022  10:15 PM    <DIR>          1231048 Kobaryo - Bookmaker
+04/24/2022  02:54 PM    <DIR>          1231754 Au5 - Interstellar (feat Danyka Nadeau)
+06/17/2022  10:03 AM    <DIR>          1239072 THE ORAL CIGARETTES - GET BACK
+04/27/2022  01:12 AM    <DIR>          1244395 Poppy - Pokemon x Poppy
+09/08/2022  07:31 PM    <DIR>          124458 TwoThirds - Breathe
+08/19/2022  02:56 PM    <DIR>          124556 Runore - The OTOMAD Remix
+04/26/2022  01:47 PM    <DIR>          1248042 Ray - km_h
+05/07/2022  05:35 PM    <DIR>          1253410 Modern Talking - Win The Race
+06/19/2022  08:23 PM    <DIR>          1259053 fulusu - serum
+06/19/2022  08:26 PM    <DIR>          1272355 Fred V & Grafix - Ultraviolet
+04/24/2022  11:22 PM    <DIR>          1273985 MitiS - Living Color (Original Mix)
+04/27/2022  01:12 AM    <DIR>          127712 Primastella - Koigokoro
+04/25/2022  08:05 PM    <DIR>          128931 Feint - Tower Of Heaven (You Are Slaves)
+04/24/2022  11:22 PM    <DIR>          1290914 MitiS - Gold In The Valley (feat Elle Vee)
+04/27/2022  01:12 AM    <DIR>          1293912 ONE OK ROCK - We Are (Cut Ver)
+05/26/2022  08:02 PM    <DIR>          1298179 Apashe ft Lena - Skeleton Dance
+04/26/2022  01:47 PM    <DIR>          1299595 Reol - Q
+04/24/2022  02:56 AM    <DIR>          1301948 Our Stolen Theory - United (LAOS Remix)
+04/25/2022  08:05 PM    <DIR>          130223 Feint (feat CoMa) - Snake Eyes
+06/26/2022  01:25 PM    <DIR>          1302370 Minami - Kawaki wo Ameku [no video]
+10/04/2022  08:11 PM    <DIR>          1306570 NIWASHI - Playing with Ruby
+08/17/2022  02:40 PM    <DIR>          1306970 Okabe Keiichi - Kaine _ Salvation
+10/04/2022  08:06 PM    <DIR>          1312076 II-L - SPUTNIK-3
+06/26/2022  09:04 PM    <DIR>          1312079 Chikamori Kayako - Kigurumi Sungeki
+04/29/2022  03:08 PM    <DIR>          1317625 Reol - Q
+06/18/2022  10:04 PM    <DIR>          13204 Demetori - Emotional Skyscraper _ World's End
+06/19/2022  08:24 PM    <DIR>          13223 Demetori - Emotional Skyscraper _ World's End
+04/23/2022  11:30 PM    <DIR>          1325933 Camellia - Feelin Sky (Camellia's ''200step'' Self-remix)
+04/26/2022  01:47 PM    <DIR>          1332346 KOAN Sound & Asa - Starlite
+10/09/2022  03:25 PM    <DIR>          133693 Demetori - Kanjou no Matenrou _ World's End
+05/05/2022  11:00 AM    <DIR>          1337085 Ricky Martin - Livin' La Vida Loca (Spanish Version)
+10/20/2022  09:01 PM    <DIR>          1337716 Hatsuki Yura - Muma Cauchemar
+10/31/2022  10:51 PM    <DIR>          1343420 Eric Saade - Popular
+06/19/2022  08:24 PM    <DIR>          1357624 sabi - true DJ MAG top ranker's song Zenpen (katagiri Remix)
+06/27/2022  10:44 AM    <DIR>          1365175 Linkin Park - Breaking The Habit
+08/19/2022  03:15 PM    <DIR>          1365438 goreshit - Fake Ass Bitches
+04/23/2022  09:42 PM    <DIR>          1376431 Porter Robinson - Sad Machine (Lexurus Remix)
+06/19/2022  08:23 PM    <DIR>          137804 B-Complex - Beautiful Lies
+04/24/2022  03:00 AM    <DIR>          1385466 Laur - Sound Chimera
+07/25/2022  12:57 PM    <DIR>          1390484 Rameses B - Samurai
+10/09/2022  03:25 PM    <DIR>          1390922 Serenity - Lionheart
+06/15/2022  08:16 PM    <DIR>          1397643 Tatsh feat KNayuki - Sphere
+06/30/2022  10:15 AM    <DIR>          1405913 fiend - FEVER DREAM (feat yzzyx)
+05/07/2022  05:44 PM    <DIR>          140691 Cres - End Time
+10/04/2022  07:49 PM    <DIR>          1407641 Camellia feat Kagekiha Gakusei - Lowermost revolt (Jeremiad Long ver)
+05/03/2022  07:08 PM    <DIR>          1413680 Risk Junk - FUCHINKAN CANDY
+07/08/2022  10:46 PM    <DIR>          1417637 SafetySuit - Anywhere But Here
+05/18/2022  02:08 PM    <DIR>          1423642 Elley Duhe - MIDDLE OF THE NIGHT
+10/31/2022  10:51 PM    <DIR>          1423969 Veil Of Maya - Mikasa
+05/26/2022  08:06 PM    <DIR>          14309 Demetori - Silent Voyage to Eternity
+04/26/2022  01:48 PM    <DIR>          1434419 Delta Heavy & MUZZ - Higher Ground (feat Cammie Robinson) (Cut Ver)
+09/19/2022  08:15 PM    <DIR>          144171 Nekomata Master - Far east nightbird (kors k Remix)
+06/19/2022  08:23 PM    <DIR>          1443335 BaSTeT - DARK LEGACY -Long version-
+08/17/2022  10:09 PM    <DIR>          1450122 Ariana Grande - Greedy
+05/11/2022  07:57 PM    <DIR>          1451503 Roselia - FIRE BIRD
+06/26/2022  10:48 AM    <DIR>          1456309 Fox Stevenson - All Eyes On Me (Cut Ver)
+06/18/2022  10:51 PM    <DIR>          14592 Hommarju feat Latte - masterpiece
+04/25/2022  08:05 PM    <DIR>          146251 Feint - Sky Dance
+04/26/2022  01:48 PM    <DIR>          1466116 Sawano Hiroyuki - Barricades _MOVIEver_
+04/26/2022  01:47 PM    <DIR>          1470255 Andromedik X Itro X Polygon - Fly (Cut Ver)
+05/26/2022  07:50 PM    <DIR>          1471082 Nakiri Ayame - Good-bye sengen
+06/15/2022  09:12 PM    <DIR>          1475425 SirensCeol - Nightmare (Maxin Remix)
+05/11/2022  09:47 PM    <DIR>          14769 onoken - Felys
+05/26/2022  07:39 PM    <DIR>          1486861 blackwinterwells x nomu - nicotine [haardtek flip]
+04/24/2022  11:23 PM    <DIR>          149045 Kicks N Licks Feat Nicole Millar - Own The Night (MitiS DnB Remix)
+06/27/2022  10:44 AM    <DIR>          14983 Jan Wayne Vs Raindropz - Numb (Nightcore Ver)
+06/27/2022  10:44 AM    <DIR>          1499705 Linkin Park - Breaking The Habit
+10/09/2022  03:19 PM    <DIR>          150054 hapi - THE MEDLEY OF POKEMON RGBY+GSC -3PBs-
+09/03/2022  05:59 PM    <DIR>          15007 ANANT-GARDE EYES - Angelic Break Beats
+05/26/2022  07:43 PM    <DIR>          1503440 Amatsuka Uto - Good-bye Sengen
+06/14/2022  07:48 PM    <DIR>          1506361 Au5 - Eden (feat Danyka Nadeau)
+11/08/2022  04:50 PM    <DIR>          1518291 T & Sugah x NCT - Stardust (feat Miyoki) (Cut Ver)
+04/26/2022  01:47 PM    <DIR>          1519259 Rachel Taylor - Eternity (C3EYOND Remix)
+05/14/2022  11:52 AM    <DIR>          1519388 Kikuo - Hole Dwelling
+06/26/2022  12:01 PM    <DIR>          1521890 JIN - Additional Memory [no video]
+06/19/2022  08:23 PM    <DIR>          1525573 Thaehan - Ohayou !
+06/26/2022  01:40 PM    <DIR>          1526448 Dustvoxx & Laur - FireLight (Neokontrol remix)
+05/02/2022  01:42 AM    <DIR>          15292 Nightcore - Amore
+10/20/2022  08:48 PM    <DIR>          1529362 Ado - Odo
+07/07/2022  02:38 PM    <DIR>          1529722 MIMI - Mizuoto to Curtain
+06/26/2022  01:50 PM    <DIR>          1530096 Helblinde - Grief & Malice (Cut Ver)
+06/26/2022  09:38 PM    <DIR>          153206 Giga-P - LUVORATORRRRRY!
+06/27/2022  10:41 AM    <DIR>          15327 Owl City - Fireflies (DJ Strobe Remix)
+05/24/2022  04:44 PM    <DIR>          1533028 Camellia - Flamewall
+10/09/2022  03:25 PM    <DIR>          153776 yuikonnu & ayaponzu_ - Super Nuko World [no video]
+04/26/2022  01:48 PM    <DIR>          1545216 T & Sugah - Demons (feat Voicians)
+04/25/2022  08:05 PM    <DIR>          1548941 BoB feat Hayley Williams - Airplanes (Feint Drum and Bass Remix)
+09/29/2022  06:20 PM    <DIR>          1550498 Dimrain47 - Cloud Control
+06/19/2022  08:23 PM    <DIR>          1560053 Nesta Rae - Stay (Soular Order Remix)
+10/20/2022  09:05 PM    <DIR>          1566691 sawawa - Fire in the Phoenix
+04/23/2022  09:42 PM    <DIR>          1572918 Lexurus - Take Me Away (Cut Ver)
+05/02/2022  04:19 AM    <DIR>          158023 UNDEAD CORPORATION - Everything will freeze
+06/18/2022  10:13 PM    <DIR>          1590068 Yooh - Ice Angel
+09/19/2022  08:15 PM    <DIR>          159325 TRakker - Rootus
+06/17/2022  10:28 AM    <DIR>          1600169 THE ORAL CIGARETTES - Amy
+05/18/2022  10:17 PM    <DIR>          1602640 Quinn Karter - Living in a Dream (feat Natalie Major) (Feint Remix)
+05/21/2022  11:45 PM    <DIR>          1610294 Mysteka - Hesperos
+05/21/2022  11:45 PM    <DIR>          1615946 Mimori Suzuko - Egao no Kimi e
+07/22/2022  11:18 AM    <DIR>          1616499 KAF - Nihil
+06/19/2022  08:23 PM    <DIR>          1616800 Vivy (VO_ Yagi Kairi) - Sing My Pleasure
+06/26/2022  09:30 PM    <DIR>          1622117 Team Grimoire - Dantalion
+12/12/2022  11:36 AM    <DIR>          1631530 Memme - Chinese Restaurant
+05/21/2022  11:45 PM    <DIR>          1636008 Suzuyu - Euphorium
+05/22/2022  10:34 PM    <DIR>          1641274 Konoe Kanata (CV_ Kito Akari) - Silent Blaze
+08/14/2022  10:26 AM    <DIR>          1647421 katagiri - Buta Musou
+05/21/2022  10:20 PM    <DIR>          1648765 Oonishi Saori & Kayano Ai & Kiyono Yasuno - LOVE iLLUSiON
+09/29/2022  06:20 PM    <DIR>          1650533 ASAKA - Nanatsu Hiiragisuikou
+06/26/2022  09:22 PM    <DIR>          1652496 Hoshimachi Suisei - phony [no video]
+06/14/2022  07:53 PM    <DIR>          1658809 DragonForce - My Heart Will Go On
+05/22/2022  10:34 PM    <DIR>          1659194 Yooh - Heracles
+04/24/2022  11:22 PM    <DIR>          165973 MitiS - Elements of Thought (Original Mix)
+06/15/2022  08:35 PM    <DIR>          1667478 Maduk - Company (feat Juul) (Cut Ver)
+08/03/2022  06:37 PM    <DIR>          1673028 Happy Around! - Kokoro Odoru
+05/26/2022  05:11 PM    <DIR>          1673687 Camellia - I Can Fly In The Universe
+04/25/2022  08:05 PM    <DIR>          1677263 Feint - The Journey (feat Veela)
+05/21/2022  10:20 PM    <DIR>          1679541 Kujira - Kinmokusei (feat Ado)
+05/21/2022  11:45 PM    <DIR>          1680549 Hoshimachi Suisei - Stellar Stellar
+05/21/2022  10:20 PM    <DIR>          1682134 SHK - Halloween Party
+08/19/2022  03:03 PM    <DIR>          1683876 Down - Ekoro
+05/11/2022  11:27 PM    <DIR>          1685799 m1v - you
+04/29/2022  01:39 PM    <DIR>          1686555 The Eden Project - Lost
+05/26/2022  07:05 PM    <DIR>          16953 Katsushi - Beware the Umbrella Left For a Long Time
+05/21/2022  10:20 PM    <DIR>          1696485 Asaka - Ready Set Go!! (TV Size)
+05/22/2022  10:34 PM    <DIR>          1700350 Rita - Straight Seeker
+05/21/2022  11:45 PM    <DIR>          1701302 Yorushika - Hirutonbi
+12/23/2022  06:21 PM    <DIR>          1704595 PassCode - Ray (Cut Ver)
+04/26/2022  01:48 PM    <DIR>          17076 Natteke ft tieff - Endless Tower
+12/23/2022  06:22 PM    <DIR>          1709438 Maduk - Ghost Assassin (feat Veela)
+05/11/2022  07:57 PM    <DIR>          1713744 Yamamoto Mineko - Rinne
+05/21/2022  10:20 PM    <DIR>          1713881 Mizuki Nana - Heart-shaped chant
+05/22/2022  10:34 PM    <DIR>          1714765 Asuka Ohta, Ryo Nagamatsu - Toad's Factory (Cut Ver)
+05/21/2022  11:43 PM    <DIR>          1714809 Silver Forest feat Nano - (9) destiny _ Zutto Cirno no Turn
+05/22/2022  10:34 PM    <DIR>          1714895 Aoi Eir - PHOENIX PRAYER (TV Size)
+12/12/2022  11:36 AM    <DIR>          1715004 DevilishP feat GUMI - Omoide Kakera
+05/21/2022  10:20 PM    <DIR>          1717276 Eve - Avant
+07/03/2022  01:16 PM    <DIR>          1717491 Ushirokara Haiyoritai G - Koi wa Chaos no Shimobenari
+05/22/2022  10:34 PM    <DIR>          1721545 Kano - Dear Brave (Short Ver)
+05/11/2022  07:57 PM    <DIR>          1721749 Duca - Kioku x Hajimari (Short Ver)
+05/22/2022  10:34 PM    <DIR>          1723165 KAMELOT - Liar Liar (Wasteland Monarchy)
+08/24/2022  07:27 PM    <DIR>          1724649 MUZZ - Start Again (Lexurus & Dualistic Remix)
+05/21/2022  10:20 PM    <DIR>          1726676 Ponchi feat haxchi - Mousou _3 Chuu!!
+05/18/2022  02:06 PM    <DIR>          1730334 Elley Duhe - Middle of the Night
+07/03/2022  04:34 PM    <DIR>          1731940 Elley Duhe - In the Middle of the Night (Cut Ver)
+06/27/2022  10:44 AM    <DIR>          173468 Linkin Park - Breaking The Habit
+05/22/2022  10:34 PM    <DIR>          1737106 Mitsuki - Eeliaas
+05/21/2022  11:43 PM    <DIR>          1739083 Fall Out Boy - XO
+05/21/2022  11:45 PM    <DIR>          1741100 Momo Belia Deviluke (CV_ Toyosaki Aki) - MORE & MORE (Cut Ver)
+07/07/2022  02:38 PM    <DIR>          1742111 NCT x Dualistic - Lost & Found (Telomic Remix)
+06/15/2022  08:16 PM    <DIR>          1745709 wotaku feat SHIKI - snooze
+06/19/2022  08:23 PM    <DIR>          1746310 Maduk - Taking Control (feat Lachi)
+05/21/2022  11:45 PM    <DIR>          1752044 Jack Zankowski - SuperPretzel
+05/21/2022  10:20 PM    <DIR>          1754413 cadode - Kaika
+12/12/2022  11:36 AM    <DIR>          1755405 KAF - Confused Telepathy
+05/31/2022  07:26 PM    <DIR>          1767138 Mili - Paper Bouquet
+08/17/2022  02:41 PM    <DIR>          1767895 Soleily feat SUNRaiSE - Rise Above
+10/31/2022  10:51 PM    <DIR>          1768029 THE ORAL CIGARETTES - Sesshoku
+09/03/2022  05:55 PM    <DIR>          1770637 Monster Siren Records - Fading Sky
+07/07/2022  02:38 PM    <DIR>          1775001 Mike Posner - I Took A Pill In Ibiza (Seeb Remix)
+05/24/2022  04:43 PM    <DIR>          177523 Tristam & Braken - Frame of Mind
+07/25/2022  01:27 PM    <DIR>          1780238 Cascada - Miracle (Nightcore Mix)
+10/09/2022  02:24 PM    <DIR>          1781620 Fellowship - Glory Days
+07/07/2022  02:38 PM    <DIR>          1782890 Baracuda - La Di Da (Nightcore & Cut Ver)
+10/31/2022  10:51 PM    <DIR>          1783013 Muzzy - Feeling Stronger (feat Charlotte Colley) (High Maintenance Remix)
+12/23/2022  06:21 PM    <DIR>          1784520 glaive - icarus
+08/17/2022  02:40 PM    <DIR>          1787306 Apex - String Theory
+09/03/2022  05:55 PM    <DIR>          1788259 EMI - Anima Libera (Strong Edit) (Nightcore & Cut Ver)
+07/25/2022  12:57 PM    <DIR>          1790032 Owl City - Cloud Nine (1)
+12/23/2022  06:21 PM    <DIR>          1790641 Our Stolen Theory - United (LAOS Remix)
+09/20/2022  11:52 AM    <DIR>          1792710 WALKUERE - Walkuere Attack!
+12/23/2022  06:21 PM    <DIR>          1793226 mezClA (Evatan & Mecotan) - Azul Remix
+09/29/2022  06:20 PM    <DIR>          1802942 Mazare & RUNN - Where Do We Go (Cut Ver)
+09/03/2022  05:56 PM    <DIR>          1810211 kors k - New Lights (Extended Mix)
+12/12/2022  11:36 AM    <DIR>          1817171 Abe Mao - Believe in yourself (TV Size)
+09/29/2022  06:20 PM    <DIR>          1817644 KARUT - Glitch Street
+12/12/2022  11:36 AM    <DIR>          1821835 DIALOGUE+ - Deneb to Spica (TV Size)
+08/17/2022  02:40 PM    <DIR>          1822388 Wakana - Flag
+09/03/2022  05:55 PM    <DIR>          1823175 Hybrid Minds - Supernova
+08/19/2022  02:41 PM    <DIR>          1827578 Creepy Nuts - Yofukashi no Uta (TV Size)
+09/29/2022  06:20 PM    <DIR>          1829362 Suara - Senjin Genmu
+09/29/2022  06:20 PM    <DIR>          1830770 TokyoMeltiMelt - Virgin Mary feat Sennzai
+10/31/2022  10:51 PM    <DIR>          1830933 yanaginagi - over and over (TV Size)
+04/24/2022  11:22 PM    <DIR>          183132 MitiS - Movements Feat MaHi (Original Mix) (Speed Up Ver)
+12/12/2022  11:36 AM    <DIR>          1839513 SID - Ranbu no Melody (TV Size)
+09/29/2022  06:21 PM    <DIR>          1845027 Okazaki Taiiku feat Beverly - KOKO -ENG Ver-
+12/12/2022  11:37 AM    <DIR>          1848054 Cafune - Tek It (Sped Up Ver)
+12/23/2022  06:21 PM    <DIR>          1857409 Euchaeta - Spirit Away
+10/31/2022  10:51 PM    <DIR>          1860413 NateWantsToBattle - Haruka Mirai [no video]
+12/12/2022  11:36 AM    <DIR>          1864162 Walter Murphy feat Family Guy Main Cast - Family Guy Main Title (TV Size)
+10/20/2022  08:39 PM    <DIR>          1864346 Kenshi Yonezu - KICK BACK (TV Size) [no video]
+12/23/2022  06:21 PM    <DIR>          1886850 Kana Nishino - Day 7
+12/23/2022  06:21 PM    <DIR>          1888924 Dan Dakota - Stood In The Dark (Cut Ver)
+12/23/2022  06:21 PM    <DIR>          1890007 B-Complex - Beautiful Lies VIP
+04/25/2022  08:06 PM    <DIR>          189756 Matrix & Futurebound - Magnetic Eyes (feat Baby Blue)
+12/23/2022  06:21 PM    <DIR>          1898722 Hanasaka Yui (CV_ MAO) - Harumachi Clover (Redside Bootleg)
+06/19/2022  08:23 PM    <DIR>          194394 MY FIRST STORY - Fukagyaku Replace [no video]
+05/11/2022  09:47 PM    <DIR>          197747 onoken - Felys (BMS Edit)
+08/19/2022  03:07 PM    <DIR>          198802 Harada Hitomi - Kyoumei No True Force [no video]
+06/15/2022  08:36 PM    <DIR>          198820 Maduk ft Veela - Ghost Assassin (Hourglass Bonusmix)
+06/14/2022  07:53 PM    <DIR>          20237 DragonForce - Through The Fire And Flames
+08/19/2022  03:26 PM    <DIR>          205022 Ryu_ - Sakura Mirage
+05/13/2022  04:59 PM    <DIR>          206284 FELT - In my room
+12/17/2022  02:44 PM    <DIR>          206668 Helblinde - A Reyvateil's Curse
+06/19/2022  08:23 PM    <DIR>          210937 SawanoHiroyuki[nZk]_mizuki - aLIEz (TV size) [no video]
+06/14/2022  07:53 PM    <DIR>          21550 Two Steps From Hell - Dragon Rider
+05/02/2022  01:53 AM    <DIR>          21949 Alex C feat Yasmin K - Angel of Darkness (Nightcore Mix)
+04/25/2022  08:05 PM    <DIR>          219941 Feint - One Last Time
+04/25/2022  08:05 PM    <DIR>          222565 Doxx & Feint - Mind In Motion
+05/15/2022  02:43 PM    <DIR>          223180 Goose house - Hikaru nara -TV size-
+05/15/2022  02:43 PM    <DIR>          223871 Goose house - Hikaru nara -TV size-
+04/25/2022  08:05 PM    <DIR>          224157 Feint - 161914
+05/10/2022  07:46 PM    <DIR>          226670 senya - Iro wa Jou e to Izanau
+06/19/2022  08:23 PM    <DIR>          230367 MISATO - Necro Fantasia
+06/16/2022  10:27 PM    <DIR>          23415 Fantasy Project - Crazy Baby (Nightcore Mix)
+06/26/2022  01:32 PM    <DIR>          235068 utsuP - MiKUSABBATH [no video]
+05/05/2022  12:21 AM    <DIR>          235496 onoken - felys
+04/26/2022  01:47 PM    <DIR>          236292 Agressor Bunx - Tornado (Original Mix)
+04/23/2022  11:30 PM    <DIR>          237768 Our Stolen Theory - United (LAOS Remix)
+06/19/2022  08:26 PM    <DIR>          239330 Rameses B - We Love
+05/26/2022  07:56 PM    <DIR>          239584 IOSYS - Third Eye ya!
+06/27/2022  10:44 AM    <DIR>          23977 Linkin Park - From the Inside
+04/25/2022  08:05 PM    <DIR>          240329 Feint - Face Down
+04/25/2022  08:05 PM    <DIR>          241474 TwoThirds & Feint - Epiphany (feat Veela)
+04/25/2022  11:31 PM    <DIR>          241526 Soleily - Renatus
+04/25/2022  09:07 PM    <DIR>          24313 Team Nekokan - Can't Defeat Airman
+06/17/2022  10:27 AM    <DIR>          24315 Tune Up! - Bounce (Nightcore Mix)
+04/24/2022  09:36 PM    <DIR>          24900 Paolo Ligorio - The Colors of My Life
+05/13/2022  05:31 PM    <DIR>          249939 Fujijo Seitokai Shikkou-bu - Best FriendS
+04/24/2022  11:23 PM    <DIR>          255311 MitiS - Touch (Original Mix)
+05/02/2022  01:53 AM    <DIR>          25707 ATC - Around The World (Nightcore Mix)
+04/24/2022  11:23 PM    <DIR>          261911 MitiS & MaHi - Blu (Speed Up Ver)
+04/25/2022  08:05 PM    <DIR>          276967 Feint - Homebound
+09/19/2022  07:51 PM    <DIR>          28107 DJ Fresh - Gold Dust
+06/27/2022  10:41 AM    <DIR>          28431 Owl City - Fireflies (Adam Young Remix)
+04/24/2022  11:15 AM    <DIR>          288528 Feint - Horizons (feat Veela)
+04/25/2022  11:31 PM    <DIR>          292077 Reol - Asymmetry
+04/24/2022  11:26 AM    <DIR>          293098 Rameses B - Timeless ft Veela
+04/26/2022  01:47 PM    <DIR>          293563 Faylan - Tokyo Zero Hearts [no video]
+04/24/2022  11:40 AM    <DIR>          294493 Rameses B - Utopia (ft Holly Drummond)
+04/26/2022  01:47 PM    <DIR>          294496 KOAN Sound & Asa - Starlite
+04/24/2022  11:23 PM    <DIR>          296185 MitiS - Movements (feat MaHi)
+04/24/2022  11:23 PM    <DIR>          296724 MitiS feat Crywolf - Oasis (vocal Mix)
+10/09/2022  02:21 PM    <DIR>          297110 MIz - Kakenukeru Anime Song Medley IV
+05/13/2022  04:45 PM    <DIR>          30012 Hommarju feat RCena - Chousai Kenbo Sengen
+04/24/2022  11:26 AM    <DIR>          300330 Rameses B - Timeless ft Veela
+06/19/2022  08:26 PM    <DIR>          301802 Owl City - Up All Night
+06/26/2022  10:48 AM    <DIR>          304976 Fox Stevenson - Let This Go
+04/24/2022  02:54 PM    <DIR>          305381 Au5 & Fractal - Blue
+04/25/2022  08:05 PM    <DIR>          307163 TwoThirds & Feint - Epiphany (feat Veela)
+04/24/2022  11:23 PM    <DIR>          309242 MitiS - untitled guitar
+04/24/2022  11:23 PM    <DIR>          309511 MitiS - Living Color (Original Mix)
+04/25/2022  11:31 PM    <DIR>          310499 Reol - Asymmetry
+10/04/2022  08:20 PM    <DIR>          313718 Shawn Wasabi - Marble Soda
+06/27/2022  10:44 AM    <DIR>          31468 Linkin Park - In The End
+06/19/2022  08:23 PM    <DIR>          315299 Rita - Dream Walker
+06/26/2022  09:16 PM    <DIR>          317310 Knife Party - Boss Mode
+05/05/2022  12:39 AM    <DIR>          317439 dj TAKA - Colors -sasakureUK Futurelogic Remix-
+06/27/2022  10:44 AM    <DIR>          319314 Sia - Chandelier
+05/07/2022  05:29 PM    <DIR>          319375 Birdy - Wings (Nu_Logic Remix)
+05/11/2022  11:27 PM    <DIR>          320118 Reol - No title
+07/25/2022  12:57 PM    <DIR>          320504 Rameses B - Mountains (feat Veela)
+05/02/2022  08:12 PM    <DIR>          3207 Wada Kouji - Biggest Dreamer
+04/25/2022  08:05 PM    <DIR>          324058 Feint - Reprise
+10/09/2022  02:40 PM    <DIR>          325158 AKINO from bless4 & CHiCO with HoneyWorks - MIIRO vs Ai no Scenario
+10/01/2022  09:46 PM    <DIR>          326920 Seiryu - BLUE DRAGON
+04/25/2022  08:05 PM    <DIR>          329290 Doxx & Feint - The Pink Fields
+04/26/2022  01:47 PM    <DIR>          329442 Draper - Set Me Free
+05/11/2022  07:57 PM    <DIR>          334469 ALiCE'S EMOTiON - Dark Flight Dreamer
+04/26/2022  01:47 PM    <DIR>          336173 Ci Mei Gui - Wu Xuan Lan
+04/24/2022  11:40 AM    <DIR>          336921 Rameses B - With You
+04/24/2022  11:34 PM    <DIR>          338542 Wada Kouji - Butter-Fly
+07/25/2022  12:57 PM    <DIR>          339708 Rameses B - Transcend
+04/24/2022  02:54 PM    <DIR>          341007 Akira Complex - Odyssey (Au5 Remix)
+05/14/2022  11:46 AM    <DIR>          34348 xi - Ascension to Heaven
+05/26/2022  04:44 PM    <DIR>          343672 Reol - No title
+12/17/2022  02:55 PM    <DIR>          344252 Helblinde - Above the Clouds
+04/26/2022  01:47 PM    <DIR>          346872 KISIDA KYODAN & THE AKEBOSI ROCKETS - GATE_Sore wa Akatsuki no you ni_ (TV size) [no video]
+04/26/2022  01:48 PM    <DIR>          347276 Rameses B - We Love
+06/27/2022  10:44 AM    <DIR>          3492 Linkin Park - Faint
+04/25/2022  08:05 PM    <DIR>          354537 Feint - Vagrant (feat Veela)
+04/25/2022  08:05 PM    <DIR>          354792 Feint - Vagrant (feat Veela)
+04/25/2022  08:05 PM    <DIR>          357539 Feint - We Won't Be Alone (feat Laura Brehm)
+04/26/2022  01:48 PM    <DIR>          357777 NOMA - Brain Power
+09/16/2022  01:01 PM    <DIR>          358119 Sarah Connor - Cold As Ice (PH Electro Remix) (Nightcore Mix)
+06/15/2022  09:13 PM    <DIR>          358350 Dollscythe - Flashes (Extended)
+05/07/2022  05:44 PM    <DIR>          36382 Cres - End Time
+10/09/2022  03:10 PM    <DIR>          364401 Shiena Nishizawa - Meaning
+07/16/2022  11:29 AM    <DIR>          366440 Reol - MONSTER
+04/23/2022  10:25 PM    <DIR>          366706 Camellia & DJ Genki - Feelin Sky
+06/19/2022  08:23 PM    <DIR>          368985 WEAVER - Kuchizuke Diamond [no video]
+04/24/2022  11:39 AM    <DIR>          370603 TwoThirds & Feint feat Veela - Starscapes (Rameses B Remix)
+05/13/2022  05:31 PM    <DIR>          371128 Station Earth - Cold Green Eyes ft Roos Denayer
+04/24/2022  11:33 PM    <DIR>          374078 Wada Kouji - Butter-Fly_triVersion_
+04/26/2022  01:48 PM    <DIR>          374683 Breaking Benjamin - Breath
+04/26/2022  01:47 PM    <DIR>          375402 onoken - Viden
+10/09/2022  03:20 PM    <DIR>          37563 IOSYS - Usatei 2011 [no video]
+04/26/2022  01:47 PM    <DIR>          378803 EVO+ - [A]ddiction [no video]
+05/26/2022  05:33 PM    <DIR>          380052 fhana - Wonder Stella
+04/26/2022  01:47 PM    <DIR>          382400 DragonForce - Through the Fire and Flames
+06/19/2022  08:23 PM    <DIR>          382413 void - Sun Goes Down (BMS edit)
+06/19/2022  08:26 PM    <DIR>          383095 Memtrix - All You Are
+04/25/2022  08:05 PM    <DIR>          384535 Feint - Stray
+06/26/2022  09:49 PM    <DIR>          385088 Crywolf - Eyes Half Closed
+09/19/2022  07:51 PM    <DIR>          38697 Solid Inc - What I Found (State Function Remix)
+04/26/2022  01:48 PM    <DIR>          39182 ESTi - Secret Wish
+10/09/2022  03:25 PM    <DIR>          391953 Tia - The Glory Days
+04/24/2022  11:23 PM    <DIR>          395978 MitiS - 1162016
+06/26/2022  10:47 AM    <DIR>          396077 Alan Walker - Faded
+10/09/2022  03:25 PM    <DIR>          397905 Muzzy - Endgame
+05/02/2022  08:12 PM    <DIR>          398819 Wada Kouji - The Biggest Dreamer (TV Size)
+04/25/2022  08:05 PM    <DIR>          399328 Feint - We Won't Be Alone (feat Laura Brehm)
+04/24/2022  11:23 PM    <DIR>          404721 MitiS - untitled guitar
+04/26/2022  01:48 PM    <DIR>          411894 Remo Prototype[CV_ Hanamori Yumiri] - Sendan Life
+04/27/2022  01:12 AM    <DIR>          41384 Hisui Rika & Hotarubi Kakeru - Natsu no Hi (Short Ver)
+09/16/2022  01:18 PM    <DIR>          414034 Camellia - KYAFA (Kill You All Fucking Asshole)
+04/23/2022  10:25 PM    <DIR>          414543 Camellia & DJ Genki - Feelin Sky
+12/17/2022  02:55 PM    <DIR>          416444 Helblinde - Above the Clouds
+05/24/2022  05:04 PM    <DIR>          41823 The Quick Brown Fox - The Big Black
+05/13/2022  05:31 PM    <DIR>          420458 Diana Garnet - Spinning World (Anime Ver) [no video]
+06/15/2022  09:06 PM    <DIR>          424600 Camellia - Exit This Earth's Atomosphere
+05/02/2022  08:12 PM    <DIR>          4258 Wild Child Bound - EVO
+04/25/2022  08:05 PM    <DIR>          429411 Maduk - Liquicity Yearmix 2015
+10/09/2022  03:19 PM    <DIR>          43037 syatten remixed celas - Bird Sprite -Awakening of Light- [no video]
+05/26/2022  07:11 PM    <DIR>          43248 DECO_27 feat marina - Aimai Elegy [no video]
+06/26/2022  10:47 AM    <DIR>          433501 Taio Cruz - Telling The World
+04/26/2022  01:48 PM    <DIR>          434391 Manoeuvres - Mad World (Station Earth Remix)
+06/17/2022  10:28 AM    <DIR>          437544 Station Earth - Age Of Reason
+05/15/2022  03:31 PM    <DIR>          439104 amazarashi - Kisetsu wa Tsugitsugi Shindeiku -Tokyo Ghoul Root A Edit- [no video]
+04/27/2022  01:12 AM    <DIR>          439731 Roses Epicurean - Yoru no Kodomo-tachi
+05/15/2022  02:43 PM    <DIR>          440169 Goose house - Hikaru nara
+06/18/2022  10:09 PM    <DIR>          440650 yuikonnu - Ghost Rule
+04/26/2022  01:47 PM    <DIR>          440980 senya - Youyoumu no Gotoku (Autobahn Remix)
+04/24/2022  02:54 PM    <DIR>          441155 Chino(CVMinase Inori) - Shinsaku no Shiawase wa Kochira!
+05/13/2022  04:59 PM    <DIR>          443589 Shiena Nishizawa - Meaning
+05/13/2022  04:45 PM    <DIR>          444335 HO-KAGO TEA TIME - Kira Kira Days
+06/19/2022  08:24 PM    <DIR>          446332 Rameses B - Neon Rainbow (ft Anna Yvette)
+05/02/2022  01:41 AM    <DIR>          4477 NightCore - Dum Dadi Do
+05/02/2022  08:11 PM    <DIR>          4546 Wada Kouji - FIRE!! (TV Size)
+06/26/2022  10:47 AM    <DIR>          461191 Alan Walker - Faded
+10/09/2022  03:25 PM    <DIR>          461966 Mami Kawada - Contrail _Kiseki_ (Epsilon Remix)
+06/26/2022  01:05 PM    <DIR>          46218 A_Teens - Gimme! Gimme! Gimme! (Nightcore Mix)
+10/04/2022  07:40 PM    <DIR>          462386 Foreground Eclipse - From Under Cover (Caught Up In A Love Song)
+04/23/2022  09:42 PM    <DIR>          471562 T & Sugah x Lexurus - No More
+04/26/2022  01:48 PM    <DIR>          472946 Within Temptation - In The Middle Of The Night (Speed Up Ver)
+06/19/2022  08:23 PM    <DIR>          475469 toby fox - His Theme
+06/19/2022  08:23 PM    <DIR>          476587 Vicetone - Nevada (feat Cozi Zuehlsdorff)
+06/19/2022  08:24 PM    <DIR>          477725 AK X LYNX ft Veela - Virtual Paradise
+05/13/2022  04:45 PM    <DIR>          480765 3 Nen E Gumi Utatan (Nagisa & Kayano & Karuma & Isogai & Maehara) - Bye Bye YE
+06/19/2022  08:23 PM    <DIR>          481451 S3RL feat Krystal - R4V3 B0Y
+05/26/2022  05:40 PM    <DIR>          483885 nameless - Sayonara Wonder Noise
+04/24/2022  02:54 PM    <DIR>          487775 Au5 - Reiteration
+06/19/2022  08:23 PM    <DIR>          487907 Yuki Hayashi - You Say Run
+10/04/2022  07:56 PM    <DIR>          490662 Shoji Meguro - Kimi no Kioku (Aethral Remix)
+09/19/2022  07:50 PM    <DIR>          49071 sakuzyo feat Hatsune Miku - ChaiN De_structioN
+04/26/2022  01:48 PM    <DIR>          490956 Kanon Wakeshima - Tsukinami
+04/26/2022  01:48 PM    <DIR>          493133 CHiCO with HoneyWorks - Ai no Scenario
+05/26/2022  05:11 PM    <DIR>          499559 Camellia - I Can Fly In The Universe
+06/15/2022  09:13 PM    <DIR>          512648 Dollscythe - Flashes (Extended)
+05/13/2022  04:55 PM    <DIR>          513294 iKz - Huan Xiang Xiang Di Yi Tao Guang Bo Ti Cao
+04/25/2022  11:05 PM    <DIR>          514204 RADWIMPS - Nandemo Nai ya (movie ver)
+06/17/2022  10:27 AM    <DIR>          514601 Camellia - Light it up
+08/14/2022  09:39 AM    <DIR>          514639 ItaloBrothers - This Is Nightlife
+05/24/2022  04:44 PM    <DIR>          514788 Tristam & Braken - Frame of Mind
+04/25/2022  11:05 PM    <DIR>          515939 RADWIMPS - Nandemo Nai ya
+07/07/2022  02:57 PM    <DIR>          516494 MISATO - Necro Fantasia
+06/19/2022  08:26 PM    <DIR>          517055 CloZee - Koto
+04/25/2022  08:05 PM    <DIR>          517678 Feint - Fall Away
+06/19/2022  08:23 PM    <DIR>          518278 The Prototypes - Slip Away
+06/26/2022  10:47 AM    <DIR>          522872 BobGmbH - BEST OF IMPOSSIBLE REMIX
+06/18/2022  10:22 PM    <DIR>          525926 KOBASOLO & Lefty Hand Cream - Zen Zen Zense
+06/18/2022  10:30 PM    <DIR>          528664 Rameses B - Beside You (feat Soundr)
+06/30/2022  01:14 PM    <DIR>          528821 KikuoHana - Nobore! Susume! Takai Tou
+05/18/2022  02:08 PM    <DIR>          530725 Volvox & Elly E - All Night
+09/19/2022  07:51 PM    <DIR>          53249 Traktion - Mission ASCII
+04/25/2022  08:57 PM    <DIR>          53317 The Cab - Angel With A Shotgun (Nightcore Mix)
+06/15/2022  08:35 PM    <DIR>          533298 Maduk - Ghost Assassin VIP feat Veela
+04/24/2022  11:23 PM    <DIR>          533518 MitiS - Living Color (Dezpot Remix)
+04/23/2022  10:17 PM    <DIR>          539135 WJSN (Cosmic Girls) - BeBe
+05/15/2022  03:32 PM    <DIR>          53923 Yousei Teikoku - Wahrheit
+05/18/2022  02:08 PM    <DIR>          539494 Volvox & Elly E - All Night
+06/27/2022  10:44 AM    <DIR>          5399 Rihanna - Disturbia
+06/26/2022  11:54 AM    <DIR>          549735 The L-Train - Discord
+04/24/2022  02:56 AM    <DIR>          549887 Our Stolen Theory - United (LAOS Remix)
+04/24/2022  11:40 AM    <DIR>          550010 Rameses B - 'Sentient' Chill Mix
+04/29/2022  04:23 PM    <DIR>          551444 Maduk - Liquicity Yearmix 2016
+04/26/2022  01:48 PM    <DIR>          554626 Ayaka Ohashi - Wagamama MIRROR HEART [no video]
+09/19/2022  07:51 PM    <DIR>          55945 FELT - Flower Flag (MZC Echoes the Spring Liquid Mix)
+06/17/2022  10:27 AM    <DIR>          559814 Set It Off - Kill The Lights
+06/27/2022  10:41 AM    <DIR>          565702 Owl City - Fireflies
+05/15/2022  09:01 PM    <DIR>          568305 TK from Ling tosite sigure - haze
+05/26/2022  07:43 PM    <DIR>          569503 96neko - Uso no Hibana
+07/01/2022  01:17 PM    <DIR>          570699 Sangatsu no Phantasia - Fairy Tale -TV Size-
+04/24/2022  11:40 AM    <DIR>          57421 Rameses B - Moonlight
+06/27/2022  10:44 AM    <DIR>          57542 Linkin Park - Leave Out All The Rest
+06/30/2022  01:14 PM    <DIR>          580273 KikuoHana - Nobore! Susume! Takai Tou
+04/26/2022  01:47 PM    <DIR>          580821 Krewella - Say Goodbye (Speed Up Ver)
+04/26/2022  01:48 PM    <DIR>          586889 Eisyo-kobu - Oriental Blossom
+10/20/2022  09:17 PM    <DIR>          587602 Infected Mushroom - The Pretender
+06/19/2022  08:23 PM    <DIR>          59286 ryo (supercell) - ODDS&ENDS [no video]
+06/27/2022  10:44 AM    <DIR>          59347 Linkin Park - What I've Done
+09/19/2022  08:15 PM    <DIR>          60092 Nuage - Don't Hide These Feelings
+06/26/2022  12:58 PM    <DIR>          605745 Pegboard Nerds - We Are One (Original Vocal Mix)
+10/20/2022  08:54 PM    <DIR>          611507 Balduin & Wolfgang Lohr (feat Alanna) - Dizzy (Radio Edit)
+04/23/2022  10:25 PM    <DIR>          613522 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+04/25/2022  11:31 PM    <DIR>          616696 Lite Show Magic - TRICKL4SH 220
+04/23/2022  10:25 PM    <DIR>          623927 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+04/26/2022  01:47 PM    <DIR>          628657 KOAN Sound & Asa - Starlite
+04/28/2022  11:20 PM    <DIR>          636839 KASAI HARCORES - Cycle Hit
+06/19/2022  08:23 PM    <DIR>          638341 After the Rain - Anti-Clockwise (TV Size)
+04/24/2022  09:36 PM    <DIR>          646724 Paolo Ligorio - The Colors Of My Life (Nightcore Mix)
+06/19/2022  08:23 PM    <DIR>          646762 Kurokotei - Valkyrie Attack
+06/17/2022  10:28 AM    <DIR>          650738 Camellia - Light it up
+06/17/2022  10:28 AM    <DIR>          652886 Wisp X - Wander
+04/25/2022  08:05 PM    <DIR>          652909 Feint & Boyinaband - Time Bomb (feat Veela)
+07/16/2022  11:29 AM    <DIR>          661483 Reol - MONSTER
+04/23/2022  10:25 PM    <DIR>          664329 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+06/26/2022  12:48 PM    <DIR>          667741 Lady Antebellum - Compass
+04/25/2022  09:02 PM    <DIR>          669826 League of Legends - Legends Never Die (ft Against The Current)
+04/25/2022  08:05 PM    <DIR>          672530 Feint - Outbreak (feat MYLK)
+04/24/2022  11:23 PM    <DIR>          676344 MitiS - untitled guitar
+04/26/2022  01:47 PM    <DIR>          679272 gmtn vs kozato (fw LUZE) - squartatrice
+04/24/2022  10:32 PM    <DIR>          68893 Yiruma & Skullee - River Flows In You (A Love Note)
+04/25/2022  08:05 PM    <DIR>          691328 Feint - Laurence (VIP) (Cut Ver)
+06/19/2022  08:26 PM    <DIR>          693432 Ella Eyre - Good Times
+04/24/2022  02:55 PM    <DIR>          697327 Au5 & Fractal - Blue
+06/18/2022  08:59 PM    <DIR>          702272 Pendulum - Hold Your Colour
+04/23/2022  10:25 PM    <DIR>          703731 Camellia - Feelin Sky (Camellia's 200step Self-remix)
+04/24/2022  02:54 PM    <DIR>          703926 Culprate & Au5 - Impulse
+04/24/2022  02:54 PM    <DIR>          705788 Culprate & Au5 - Impulse
+06/26/2022  10:47 AM    <DIR>          706285 Alan Walker - All Falls Down (feat Noah Cyrus with Digital Farm Animals)
+09/03/2022  06:00 PM    <DIR>          713161 Illenium ft Echos - Afterlife (Dabin Remix)
+04/28/2022  01:24 PM    <DIR>          715088 Rameses B - You Are Everything
+06/18/2022  09:58 PM    <DIR>          720558 YUC'e - Future Cider
+10/20/2022  09:00 PM    <DIR>          721804 Omoi - Teo
+06/27/2022  10:44 AM    <DIR>          7271 Linkin Park - New Divide
+06/19/2022  08:23 PM    <DIR>          729705 Rin - Mythic set _ Heart-Stirring Urban Legends
+09/16/2022  01:06 PM    <DIR>          732994 TeamNEKOKAN - Airman ga Taosenai
+05/07/2022  05:44 PM    <DIR>          73474 Cres - End Time
+06/19/2022  08:26 PM    <DIR>          735153 Dani Rosenoer X Arc North - Onward (ptII)
+05/26/2022  07:17 PM    <DIR>          740405 Nanahoshi Kangengakudan - Mythologia's End
+05/26/2022  05:14 PM    <DIR>          740611 Camellia - I Can Fly In The Universe
+05/10/2022  07:46 PM    <DIR>          749003 Metrik - Freefall VIP (feat Reija Lee)
+06/19/2022  08:23 PM    <DIR>          751188 VINXIS - Greetings (Extended Mix)
+05/11/2022  11:57 PM    <DIR>          751751 LVTHER - Some Kind Of Magic (Feat MYZICA)
+06/26/2022  09:10 PM    <DIR>          751771 Cranky - Hanaarashi
+04/23/2022  09:33 PM    <DIR>          751773 Cranky - Feline, the White
+04/23/2022  09:33 PM    <DIR>          751782 Fractal Dreamers - Fata Morgana
+10/04/2022  08:25 PM    <DIR>          755849 dark cat - hot chocolate
+05/13/2022  04:55 PM    <DIR>          757146 Tanaka Hirokazu - C-TYPE
+10/20/2022  08:42 PM    <DIR>          760473 Aitsuki Nakuru - Presenter_
+06/14/2022  07:53 PM    <DIR>          761593 DragonForce _ R3 Music Box - Ashes of the Dawn
+04/26/2022  01:48 PM    <DIR>          764649 POWERWOLF - Army Of The Night
+05/13/2022  05:31 PM    <DIR>          765778 Icon For Hire - Make a Move (Speed Up Ver)
+05/13/2022  05:31 PM    <DIR>          76623 Meiko - Leave The Lights On (KROT Remix)
+04/23/2022  09:33 PM    <DIR>          767346 Thaehan - Bwa !
+04/25/2022  08:05 PM    <DIR>          767797 Feint - The Journey (feat Veela)
+04/24/2022  11:22 PM    <DIR>          767988 MitiS - Living Color (Original Mix)
+04/25/2022  08:05 PM    <DIR>          770668 Feint - The Journey (feat Veela)
+06/26/2022  10:47 AM    <DIR>          771463 Alan Walker - Sing Me To Sleep
+06/27/2022  10:44 AM    <DIR>          77505 Linkin Park - Numb
+06/18/2022  10:13 PM    <DIR>          775765 Matrix & Futurebound ft Luke Bingham - All I Know
+07/01/2022  01:16 PM    <DIR>          780651 Hanasaka Yui (CV_ MAO) feat Koalazy - Harumachi Clover (TV Size)
+06/17/2022  10:28 AM    <DIR>          785544 THE ORAL CIGARETTES - Amy
+04/26/2022  01:48 PM    <DIR>          786141 DragonForce - Ashes of the Dawn
+06/19/2022  08:23 PM    <DIR>          787129 Goblins from Mars - Enough
+07/08/2022  10:46 PM    <DIR>          787421 SawanoHiroyuki[nZk]_Tielle - Amazing Trees -extended ver-
+04/26/2022  01:47 PM    <DIR>          788087 Alessia Cara - How Far I'll Go
+04/23/2022  09:42 PM    <DIR>          789529 Lexurus - Gravity
+04/24/2022  02:54 PM    <DIR>          790382 Au5 - Moonland
+06/18/2022  10:13 PM    <DIR>          79225 Clokx - Angels
+04/25/2022  08:05 PM    <DIR>          795409 Feint - Lift
+06/15/2022  09:13 PM    <DIR>          797401 Dollscythe - Flashes
+04/26/2022  01:48 PM    <DIR>          798261 TheFatRat - MAYDAY (feat Laura Brehm)
+04/26/2022  01:48 PM    <DIR>          808334 Lindsey Stirling - Master of Tides
+04/24/2022  03:00 AM    <DIR>          813569 Laur - Sound Chimera
+06/27/2022  10:44 AM    <DIR>          817429 Sia - Chandelier
+06/26/2022  10:48 AM    <DIR>          821050 Priority One & TwoThirds - City Needs Sleep (Fox Stevenson Remix)
+06/19/2022  08:23 PM    <DIR>          821798 Seiryu - AO-Infinity
+04/25/2022  08:05 PM    <DIR>          82635 Feint - Times Like These (Fracture Design Remix)
+04/25/2022  08:05 PM    <DIR>          83494 BoB feat Hayley Williams - Airplanes (Feint Remix)
+06/19/2022  08:26 PM    <DIR>          835509 LOONA - Hi High [no video]
+06/19/2022  08:26 PM    <DIR>          835509 LOONA - Hi High [no video] (1)
+05/26/2022  07:23 PM    <DIR>          837869 Nanahoshi Kangengakudan - Rubik's Cube
+05/11/2022  07:57 PM    <DIR>          838182 VINXIS - Sidetracked Day
+06/27/2022  10:44 AM    <DIR>          84104 Linkin Park - What I've Done
+06/17/2022  10:28 AM    <DIR>          845746 THE ORAL CIGARETTES - Monster Effect
+04/26/2022  01:48 PM    <DIR>          847415 Powerless feat kakichoco - hypnoSpirA
+04/23/2022  09:33 PM    <DIR>          847930 LukHash - 8BIT FAIRY TALE
+04/23/2022  09:33 PM    <DIR>          848976 Dictate - Treason
+06/27/2022  10:44 AM    <DIR>          8506 Linkin Park - Numb
+06/15/2022  09:13 PM    <DIR>          852683 Hommarju & Dollscythe - Flashes (Hommarju Remix)
+04/27/2022  01:12 AM    <DIR>          853519 Amatsuki - DORAEMON
+04/26/2022  01:48 PM    <DIR>          853600 THE ORAL CIGARETTES - GET BACK
+04/26/2022  01:47 PM    <DIR>          854728 Maroon 5 - Shoot Love
+06/19/2022  08:26 PM    <DIR>          857068 After the Rain - Anti-Clockwise
+04/26/2022  01:48 PM    <DIR>          858075 Reol - Saisaki
+05/24/2022  04:44 PM    <DIR>          858938 League of Legends - RISE (ft The Glitch Mob, Mako, and The Word Alive)
+06/27/2022  10:41 AM    <DIR>          859047 Owl City - Fireflies (Said The Sky Remix)
+05/14/2022  11:46 AM    <DIR>          86009 Yousei Teikoku - Zetsubou plantation
+08/14/2022  10:22 AM    <DIR>          869019 Okazaki Taiiku - Kimi no Bouken (TV Size) [no video]
+10/09/2022  03:25 PM    <DIR>          872310 Maki Ligon & Karamitasu - Touhou vs Fortnite Dance Compilation [no video]
+04/23/2022  10:25 PM    <DIR>          882932 Camellia & DJ Genki - Feelin Sky
+05/26/2022  07:42 PM    <DIR>          890981 Adust Rain - psychology
+04/23/2022  09:33 PM    <DIR>          891339 HyuN feat Ato - Asu wa Ame ga Yamukara
+05/02/2022  01:53 AM    <DIR>          89289 Various Artists - Nightcore Mix Compilation
+05/05/2022  11:00 AM    <DIR>          894111 Ricky Martin - Livin' La Vida Loca
+06/19/2022  08:26 PM    <DIR>          894883 Aiurabu - Kani_Do-Luck! (TV Size) [no video]
+04/26/2022  01:48 PM    <DIR>          896080 Wakeshima Kanon - Tsukinami
+05/10/2022  07:46 PM    <DIR>          89799 ParagonX9 - Chaoz Fantasy
+08/19/2022  03:31 PM    <DIR>          917915 Silentroom - Nhelv
+04/23/2022  09:33 PM    <DIR>          919704 S3RL - I Will Pick You Up (feat Tamika)
+06/26/2022  01:32 PM    <DIR>          921028 Kasai Harcores - Cycle Hit
+09/19/2022  06:48 PM    <DIR>          92509 senya - Kanjou Chemistry (Drum 'n' Bass Remix)
+04/23/2022  09:33 PM    <DIR>          927544 Camellia feat Nanahira - Kansoku Eisei
+05/07/2022  05:35 PM    <DIR>          929464 Modern Talking - Win The Race
+06/17/2022  10:28 AM    <DIR>          932624 Station Earth - Cold Green Eyes feat Roos Denayer (Cut Ver)
+06/17/2022  10:28 AM    <DIR>          943829 THE ORAL CIGARETTES - Amy
+04/26/2022  01:47 PM    <DIR>          943947 Hanazono Tae (CV_ Otsuka Sae) - Hanazono Denki Guitar!!!
+04/25/2022  08:05 PM    <DIR>          951304 Feint - Drifters (feat Elizaveta)
+10/09/2022  02:16 PM    <DIR>          952409 MIMI feat Hatsune Miku - Ai no Sukima (1)
+04/23/2022  11:11 PM    <DIR>          953303 Our Stolen Theory - United (LAOS Remix)
+06/15/2022  08:48 PM    <DIR>          953367 Maduk feat Veela - Ghost Assassin (Hourglass Bonusmix)
+06/17/2022  10:28 AM    <DIR>          957594 RIOT - Overkill [no video]
+05/11/2022  09:28 PM    <DIR>          957835 Matrix & Futurebound - Fire (feat Max Marshall)
+04/23/2022  09:33 PM    <DIR>          957842 antiPLUR - One Life Left to Live
+06/26/2022  09:32 PM    <DIR>          959439 Infected Mushroom - Where Do I Belong
+04/24/2022  02:54 PM    <DIR>          959999 Au5 - Eden (feat Danyka Nadeau)
+05/13/2022  04:59 PM    <DIR>          962088 MIMI feat Hatsune Miku - Marshmary
+06/27/2022  10:41 AM    <DIR>          9645 Owl City - Fireflies
+05/13/2022  04:45 PM    <DIR>          968171 MIMI feat Hatsune Miku - Mizuoto to Curtain
+04/23/2022  09:33 PM    <DIR>          968232 Rin - Lunatic set 15 ~ The Moon as Seen from the Shrine
+04/26/2022  01:48 PM    <DIR>          970646 Wisp X - Wander
+04/23/2022  09:33 PM    <DIR>          971561 antiPLUR - Runengon
+04/23/2022  09:33 PM    <DIR>          972301 BilliumMoto - four veiled stars
+04/26/2022  01:47 PM    <DIR>          975615 Matrix & Futurebound - Fire (feat Max Marshall)
+06/17/2022  10:28 AM    <DIR>          983285 Au5 - Divinorum (feat Nori)
+06/17/2022  10:28 AM    <DIR>          983900 Camellia - Light It Up
+06/17/2022  10:28 AM    <DIR>          985335 Two Steps From Hell - El Dorado
+06/17/2022  10:28 AM    <DIR>          986813 Station Earth - Cold Green Eyes feat Roos Denayer
+06/27/2022  10:44 AM    <DIR>          9873 Rihanna ft Jay-Z - Umbrella
+04/25/2022  08:05 PM    <DIR>          98842 Feint - Time Bomb (feat Veela & Boyinaband)
+06/26/2022  10:48 AM    <DIR>          988533 Taishi - Songs Compilation
+06/17/2022  10:28 AM    <DIR>          991780 BlackY - Sthenno
+06/17/2022  10:28 AM    <DIR>          992847 RIOT - Overkill
+04/24/2022  10:32 PM    <DIR>          99401 Yiruma & Skullee - River Flows In You (A Love Note)
+04/23/2022  09:37 PM    <DIR>          994104 James Landino - Reaction feat Slyleaf
+06/17/2022  10:28 AM    <DIR>          994598 Fujikawa Chiai - Atashi ga Tonari ni Iru Uchi ni
+04/23/2022  09:33 PM    <DIR>          996628 OISHII - ONIGIRI FREEWAY
+04/25/2022  08:05 PM    <DIR>          997556 Feint - Laurence
+04/23/2022  09:33 PM    <DIR>          Failed
+               0 File(s)              0 bytes
+             630 Dir(s)  1,710,400,532,480 bytes free
